@@ -1,0 +1,197 @@
+,Rank,City,Potato (1kg)
+0,,"Saint Petersburg, Russia",0.89
+1,,"Florence, Italy",1.26
+2,,"Milan, Italy",1.46
+3,,"Cairo, Egypt",0.50
+4,,"Banja Luka, Bosnia And Herzegovina",0.74
+5,,"Baku, Azerbaijan",0.72
+6,,"Mexico City, Mexico",1.15
+7,,"Rome, Italy",1.45
+8,,"Monterrey, Mexico",1.41
+9,,"Sarajevo, Bosnia And Herzegovina",0.72
+10,,"Turin, Italy",1.16
+11,,"Belgrade, Serbia",0.70
+12,,"Sofia, Bulgaria",0.69
+13,,"Novi Sad, Serbia",0.58
+14,,"Singapore, Singapore",1.53
+15,,"Tokyo, Japan",4.27
+16,,"Sao Jose dos Campos, Brazil",1.11
+17,,"Bratislava, Slovakia",0.64
+18,,"Zagreb, Croatia",0.70
+19,,"Dhaka, Bangladesh",0.30
+20,,"Riga, Latvia",0.92
+21,,"Tehran, Iran",0.70
+22,,"Limassol, Cyprus",0.58
+23,,"Abu Dhabi, United Arab Emirates",1.30
+24,,"Nicosia, Cyprus",0.58
+25,,"Dubai, United Arab Emirates",0.92
+26,,"Brno, Czech Republic",1.14
+27,,"Panama City, Panama",1.27
+28,,"Seoul, South Korea",1.85
+29,,"Johor Bahru, Malaysia",1.17
+30,,"Prague, Czech Republic",0.80
+31,,"Kuala Lumpur, Malaysia",0.78
+32,,"Copenhagen, Denmark",1.79
+33,,"Ljubljana, Slovenia",0.90
+34,,"Colombo, Sri Lanka",0.52
+35,,"Beijing, China",1.40
+36,,"Cape Town, South Africa",1.25
+37,,"Vilnius, Lithuania",0.52
+38,,"Johannesburg, South Africa",1.24
+39,,"Barcelona, Spain",1.12
+40,,"Bilbao, Spain",0.94
+41,,"Lima, Peru",0.43
+42,,"Guangzhou, China",0.89
+43,,"Pretoria, South Africa",1.31
+44,,"Luxembourg, Luxembourg",-
+45,,"Madrid, Spain",0.87
+46,,"Tallinn, Estonia",0.68
+47,,"Khartoum, Sudan",1.10
+48,,"Seville (Sevilla), Spain",1.38
+49,,"Valencia, Spain",1.09
+50,,"Tel Aviv-Yafo, Israel",1.24
+51,,"Taipei, Taiwan",1.00
+52,,"San Juan, Puerto Rico",1.42
+53,,"Belo Horizonte, Brazil",1.64
+54,,"Bangkok, Thailand",1.21
+55,,"Shanghai, China",0.77
+56,,"Skopje, North Macedonia",0.52
+57,,"Chiang Mai, Thailand",1.11
+58,,"Amman, Jordan",0.53
+59,,"Geneva, Switzerland",2.95
+60,,"Stockholm, Sweden",0.98
+61,,"Buenos Aires, Argentina",0.87
+62,,"Lausanne, Switzerland",2.59
+63,,"San Jose, Costa Rica",1.20
+64,,"Curitiba, Brazil",1.42
+65,,"Montreal, Canada",1.89
+66,,"Sao Paulo, Brazil",1.38
+67,,"Gothenburg, Sweden",0.81
+68,,"Zurich, Switzerland",2.66
+69,,"Stavanger, Norway",2.71
+70,,"Ankara, Turkey",0.71
+71,,"Jerusalem, Israel",1.17
+72,,"Istanbul, Turkey",1.15
+73,,"Porto Alegre, Brazil",1.27
+74,,"Helsinki, Finland",0.87
+75,,"Chisinau, Moldova",0.64
+76,,"Rio de Janeiro, Brazil",1.86
+77,,"Kochi, India",0.70
+78,,"Ho Chi Minh City, Vietnam",0.80
+79,,"Kiev (Kyiv), Ukraine",0.47
+80,,"Calgary, Canada",2.15
+81,,"Brasilia, Brazil",1.43
+82,,"Tunis, Tunisia",0.55
+83,,"Edmonton, Canada",2.00
+84,,"Amsterdam, Netherlands",2.17
+85,,"Halifax, Canada",1.65
+86,,"Thiruvananthapuram, India",0.49
+87,,"Paris, France",2.33
+88,,"Ottawa, Canada",1.25
+89,,"Thessaloniki, Greece",0.97
+90,,"Rotterdam, Netherlands",1.42
+91,,"Atlanta, GA, United States",1.87
+92,,"Berlin, Germany",1.10
+93,,"Beirut, Lebanon",0.80
+94,,"Austin, TX, United States",2.31
+95,,"Toronto, Canada",1.51
+96,,"Auckland, New Zealand",2.01
+97,,"Vancouver, Canada",2.01
+98,,"Christchurch, New Zealand",1.44
+99,,"Winnipeg, Canada",1.76
+100,,"Birmingham, United Kingdom",1.31
+101,,"Boston, MA, United States",2.10
+102,,"Cologne, Germany",1.29
+103,,"Charlotte, NC, United States",-
+104,,"Chicago, IL, United States",1.42
+105,,"Oslo, Norway",2.05
+106,,"Columbus, OH, United States",2.00
+107,,"Frankfurt, Germany",1.62
+108,,"Trondheim, Norway",4.35
+109,,"Dallas, TX, United States",1.98
+110,,"Denver, CO, United States",1.38
+111,,"Detroit, MI, United States",1.68
+112,,"Hamburg, Germany",1.42
+113,,"Krakow (Cracow), Poland",0.33
+114,,"Wellington, New Zealand",2.76
+115,,"Gdansk, Poland",0.38
+116,,"Santiago, Chile",0.80
+117,,"Edinburgh, United Kingdom",1.54
+118,,"Glasgow, United Kingdom",1.26
+119,,"Honolulu, HI, United States",2.70
+120,,"Katowice, Poland",0.51
+121,,"Houston, TX, United States",2.00
+122,,"Indianapolis, IN, United States",1.83
+123,,"Bogota, Colombia",0.49
+124,,"Muscat, Oman",0.96
+125,,"Munich, Germany",1.23
+126,,"Poznan, Poland",0.64
+127,,"Leeds, United Kingdom",1.25
+128,,"Kansas City, MO, United States",-
+129,,"Las Vegas, NV, United States",1.20
+130,,"London, United Kingdom",2.13
+131,,"Los Angeles, CA, United States",1.13
+132,,"Manchester, United Kingdom",1.89
+133,,"Warsaw, Poland",0.67
+134,,"Miami, FL, United States",1.98
+135,,"Wroclaw, Poland",0.57
+136,,"Milwaukee, WI, United States",4.41
+137,,"Minneapolis, MN, United States",1.99
+138,,"New York, NY, United States",1.47
+139,,"Stuttgart, Germany",1.41
+140,,"Islamabad, Pakistan",0.32
+141,,"Chandigarh, India",0.52
+142,,"Orlando, FL, United States",-
+143,,"Coimbra, Portugal",0.58
+144,,"Karachi, Pakistan",0.32
+145,,"Athens, Greece",1.06
+146,,"Philadelphia, PA, United States",2.27
+147,,"Phoenix, AZ, United States",1.75
+148,,"Lahore, Pakistan",0.42
+149,,"Pittsburgh, PA, United States",1.65
+150,,"Hong Kong, Hong Kong",1.33
+151,,"Portland, OR, United States",1.28
+152,,"Lisbon, Portugal",1.02
+153,,"Richmond, VA, United States",3.00
+154,,"Tirana, Albania",-
+155,,"Porto, Portugal",0.77
+156,,"Budapest, Hungary",0.69
+157,,"Saint Louis, MO, United States",1.67
+158,,"San Antonio, TX, United States",2.20
+159,,"San Diego, CA, United States",1.26
+160,,"San Francisco, CA, United States",1.91
+161,,"San Jose, CA, United States",1.66
+162,,"Seattle, WA, United States",1.79
+163,,"Bucharest, Romania",0.64
+164,,"Ahmedabad, India",0.35
+165,,"Tampa, FL, United States",1.50
+166,,"Cluj-Napoca, Romania",0.61
+167,,"Bangalore, India",0.52
+168,,"Washington, DC, United States",2.04
+169,,"Chennai, India",0.49
+170,,"Doha, Qatar",0.95
+171,,"Delhi, India",0.44
+172,,"Gurgaon, India",0.40
+173,,"Vienna, Austria",1.86
+174,,"Hyderabad, India",0.41
+175,,"Montevideo, Uruguay",1.53
+176,,"Kolkata, India",0.34
+177,,"Mumbai, India",0.40
+178,,"Riyadh, Saudi Arabia",1.24
+179,,"Reykjavik, Iceland",1.20
+180,,"Pune, India",0.35
+181,,"Caracas, Venezuela",-
+182,,"Cebu, Philippines",1.58
+183,,"Dublin, Ireland",2.12
+184,,"Moscow, Russia",0.86
+185,,"Adelaide, Australia",2.40
+186,,"Manila, Philippines",1.42
+187,,"Brisbane, Australia",2.80
+188,,"Jakarta, Indonesia",0.76
+189,,"Canberra, Australia",2.61
+190,,"Antwerp, Belgium",0.29
+191,,"Brussels, Belgium",1.59
+192,,"Melbourne, Australia",2.60
+193,,"Perth, Australia",2.17
+194,,"Sydney, Australia",2.69
+195,,"Quito, Ecuador",2.25

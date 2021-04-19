@@ -1,0 +1,655 @@
+,Rank,City,Apartment (1 bedroom) in City Centre
+0,,"Leuven, Belgium",794.89
+1,,"Dumaguete, Philippines",276.06
+2,,"Saint Petersburg, Russia",614.75
+3,,"Flagstaff, AZ, United States",-
+4,,"Yogyakarta, Indonesia",-
+5,,"Chihuahua, Mexico",-
+6,,"Samara, Russia",398.28
+7,,"Algiers, Algeria",287.45
+8,,"Bloomington, IN, United States",992.50
+9,,"Eugene, OR, United States",820.00
+10,,"Rosario, Argentina",353.30
+11,,"Banja Luka, Bosnia And Herzegovina",211.64
+12,,"Guadalajara, Mexico",295.53
+13,,"Hermosillo, Mexico",-
+14,,"Mexico City, Mexico",534.04
+15,,"Monterrey, Mexico",318.78
+16,,"Voronezh, Russia",-
+17,,"Yekaterinburg, Russia",381.81
+18,,"Sarajevo, Bosnia And Herzegovina",284.64
+19,,"Salem, OR, United States",-
+20,,"Puebla, Mexico",269.70
+21,,"Kyoto, Japan",-
+22,,"Puerto Vallarta, Mexico",409.40
+23,,"Burgas, Bulgaria",-
+24,,"Belgrade, Serbia",327.69
+25,,"Corfu, Greece",-
+26,,"Tijuana, Mexico",-
+27,,"Selangor, Malaysia",-
+28,,"Plovdiv, Bulgaria",225.36
+29,,"Osaka, Japan",-
+30,,"Sofia, Bulgaria",355.73
+31,,"Novi Sad, Serbia",234.06
+32,,"Varna, Bulgaria",243.25
+33,,"Podgorica, Montenegro",326.54
+34,,"Tokyo, Japan",1097.90
+35,,"Osijek, Croatia",229.65
+36,,"Pula, Croatia",-
+37,,"Rijeka, Croatia",297.57
+38,,"Almaty, Kazakhstan",340.71
+39,,"Astana (Nur-Sultan), Kazakhstan",384.28
+40,,"Bratislava, Slovakia",619.74
+41,,"Zagreb, Croatia",426.10
+42,,"Martin, Slovakia",-
+43,,"Larnaca, Cyprus",401.18
+44,,"Limassol, Cyprus",673.42
+45,,"Abu Dhabi, United Arab Emirates",1788.27
+46,,"Nicosia, Cyprus",503.81
+47,,"Dubai, United Arab Emirates",1891.43
+48,,"Brno, Czech Republic",499.20
+49,,"Macao, Macao",-
+50,,"Panama City, Panama",979.41
+51,,"Olomouc, Czech Republic",-
+52,,"Ostrava, Czech Republic",-
+53,,"Johor Bahru, Malaysia",-
+54,,"Prague, Czech Republic",667.54
+55,,"Gaborone, Botswana",-
+56,,"Kuala Lumpur, Malaysia",533.84
+57,,"Kuching, Malaysia",-
+58,,"Aalborg, Denmark",694.57
+59,,"Arhus, Denmark",944.55
+60,,"Copenhagen, Denmark",1362.60
+61,,"Ljubljana, Slovenia",537.39
+62,,"Petaling Jaya, Malaysia",365.77
+63,,"Maribor, Slovenia",-
+64,,"Sioux Falls, SD, United States",-
+65,,"Pisa, Italy",705.33
+66,,"Alicante, Spain",503.81
+67,,"Barcelona, Spain",975.78
+68,,"Bilbao, Spain",-
+69,,"Lima, Peru",526.79
+70,,"Hamilton, Bermuda",2508.33
+71,,"Granada, Spain",-
+72,,"Bend, OR, United States",1183.33
+73,,"Las Palmas de Gran Canaria, Spain",602.33
+74,,"Ulaanbaatar, Mongolia",275.51
+75,,"Madrid, Spain",891.44
+76,,"Tallinn, Estonia",520.39
+77,,"Tartu, Estonia",425.44
+78,,"Palma de Mallorca, Spain",-
+79,,"Bloomington, IL, United States",670.00
+80,,"Irvine, CA, United States",1986.31
+81,,"Santa Cruz de Tenerife, Spain",559.79
+82,,"Seville (Sevilla), Spain",664.74
+83,,"Port Louis, Mauritius",-
+84,,"Santa Cruz, Bolivia",-
+85,,"Valencia, Spain",623.76
+86,,"Navi Mumbai, India",232.97
+87,,"Vigo, Spain",475.82
+88,,"Zaragoza (Saragossa), Spain",-
+89,,"San Juan, Puerto Rico",791.67
+90,,"Fayetteville, AR, United States",-
+91,,"Belo Horizonte, Brazil",356.51
+92,,"Lund, Sweden",608.06
+93,,"Uppsala, Sweden",768.68
+94,,"Campinas, Brazil",345.73
+95,,"Basel, Switzerland",1366.82
+96,,"College Station, TX, United States",-
+97,,"Bern, Switzerland",1052.20
+98,,"Geneva, Switzerland",1870.00
+99,,"Providence, RI, United States",-
+100,,"Stockholm, Sweden",1340.80
+101,,"Buenos Aires, Argentina",499.10
+102,,"Lausanne, Switzerland",1345.16
+103,,"San Jose, Costa Rica",557.24
+104,,"Casablanca, Morocco",569.39
+105,,"Curitiba, Brazil",323.73
+106,,"Lugano, Switzerland",1217.25
+107,,"Lodz, Poland",333.18
+108,,"Montreal, Canada",773.53
+109,,"Fortaleza, Brazil",278.13
+110,,"Sao Paulo, Brazil",597.04
+111,,"Gothenburg, Sweden",970.03
+112,,"Dnipro, Ukraine",238.26
+113,,"Nice, France",-
+114,,"Rabat, Morocco",358.74
+115,,"Zug, Switzerland",-
+116,,"Zurich, Switzerland",1855.57
+117,,"Adana, Turkey",246.41
+118,,"Stavanger, Norway",1093.41
+119,,"Ankara, Turkey",281.10
+120,,"Antalya, Turkey",229.48
+121,,"Pristina, Kosovo (Disputed Territory)",267.45
+122,,"Manaus, Brazil",321.62
+123,,"Chattanooga, TN, United States",-
+124,,"Medellin, Colombia",319.15
+125,,"Natal, Brazil",298.36
+126,,"Bursa, Turkey",212.08
+127,,"Constanta, Romania",-
+128,,"Pattaya, Thailand",520.44
+129,,"Jerusalem, Israel",1194.08
+130,,"Yangon, Myanmar",540.00
+131,,"Knoxville, TN, United States",-
+132,,"Kingston, Canada",-
+133,,"Eskisehir, Turkey",155.52
+134,,"Bellingham, WA, United States",1029.17
+135,,"Tempe, AZ, United States",-
+136,,"Malaga, Spain",552.69
+137,,"Istanbul, Turkey",491.25
+138,,"Maputo, Mozambique",-
+139,,"Zaporizhzhya, Ukraine",-
+140,,"Porto Alegre, Brazil",362.27
+141,,"Izmir, Turkey",312.22
+142,,"Espoo, Finland",-
+143,,"Helsinki, Finland",1080.14
+144,,"Asuncion, Paraguay",280.65
+145,,"Corunna, Spain",-
+146,,"Recife, Brazil",351.96
+147,,"Rio de Janeiro, Brazil",592.87
+148,,"Hangzhou, China",-
+149,,"Salvador, Brazil",-
+150,,"Kochi, India",154.20
+151,,"Sharjah, United Arab Emirates",819.49
+152,,"Santos, Brazil",-
+153,,"Treviso, Italy",-
+154,,"Kathmandu, Nepal",190.77
+155,,"Cordoba, Argentina",302.77
+156,,"Tampere, Finland",735.00
+157,,"Paramaribo, Suriname",-
+158,,"Turku, Finland",682.94
+159,,"Burlington, VT, United States",1242.86
+160,,"Vitoria, Brazil",-
+161,,"Abbotsford, Canada",-
+162,,"Jubail, Saudi Arabia",-
+163,,"Barrie, Canada",-
+164,,"Brampton, Canada",-
+165,,"Bordeaux, France",656.07
+166,,"Kharkiv, Ukraine",273.52
+167,,"Burlington, Canada",-
+168,,"Heraklion, Greece",320.20
+169,,"Burnaby, Canada",-
+170,,"Kiev (Kyiv), Ukraine",447.23
+171,,"Calgary, Canada",849.52
+172,,"Grenoble, France",611.29
+173,,"Brasilia, Brazil",448.21
+174,,"Edmonton, Canada",886.11
+175,,"Gatineau, Canada",-
+176,,"Port of Spain, Trinidad And Tobago",756.36
+177,,"Lille, France",659.87
+178,,"Guelph, Canada",905.73
+179,,"Hamilton, Canada",691.67
+180,,"Lyon, France",756.51
+181,,"Marseille, France",-
+182,,"Kelowna, Canada",923.28
+183,,"Halifax, Canada",872.38
+184,,"Kitchener, Canada",760.96
+185,,"Odessa (Odesa), Ukraine",306.34
+186,,"London, Canada",689.37
+187,,"Nantes, France",-
+188,,"Thiruvananthapuram, India",142.89
+189,,"Paris, France",1197.41
+190,,"Mississauga, Canada",1085.76
+191,,"Moncton, Canada",560.51
+192,,"Oshawa, Canada",-
+193,,"Ottawa, Canada",883.46
+194,,"Thessaloniki, Greece",316.28
+195,,"Strasbourg, France",-
+196,,"Regina, Canada",705.28
+197,,"Kosice, Slovakia",461.82
+198,,"Sumy, Ukraine",-
+199,,"Toulouse, France",655.57
+200,,"Akron, OH, United States",-
+201,,"Albuquerque, NM, United States",791.67
+202,,"Saint John's, Canada",655.79
+203,,"Split, Croatia",447.20
+204,,"Aachen, Germany",634.65
+205,,"Anaheim, CA, United States",1566.67
+206,,"Saskatoon, Canada",833.34
+207,,"Anchorage, AK, United States",1056.25
+208,,"Augsburg, Germany",604.57
+209,,"Windhoek, Namibia",508.72
+210,,"Arlington, VA, United States",2128.62
+211,,"Aberdeen, United Kingdom",787.89
+212,,"Atlanta, GA, United States",1448.29
+213,,"Berlin, Germany",850.82
+214,,"Stamford, CT, United States",2159.17
+215,,"Surrey, Canada",965.12
+216,,"Thunder Bay, Canada",-
+217,,"Austin, TX, United States",1586.13
+218,,"Toronto, Canada",1285.44
+219,,"Auckland, New Zealand",1274.39
+220,,"Bonn, Germany",-
+221,,"Vancouver, Canada",1378.92
+222,,"Bakersfield, CA, United States",880.00
+223,,"Baltimore, MD, United States",1360.05
+224,,"Victoria, Canada",994.20
+225,,"Christchurch, New Zealand",777.91
+226,,"Baton Rouge, LA, United States",-
+227,,"Savannah, GA, United States",-
+228,,"Bremen, Germany",-
+229,,"Belfast, United Kingdom",664.41
+230,,"Windsor, Canada",-
+231,,"Dunedin, New Zealand",715.44
+232,,"Birmingham, AL, United States",1041.67
+233,,"Winnipeg, Canada",664.19
+234,,"Boise, ID, United States",849.62
+235,,"Birmingham, United Kingdom",878.67
+236,,"Hamilton, New Zealand",-
+237,,"Boston, MA, United States",2554.36
+238,,"Cologne, Germany",819.15
+239,,"George Town, Cayman Islands",1752.26
+240,,"Buffalo, NY, United States",1057.14
+241,,"Bournemouth, United Kingdom",942.92
+242,,"Charlotte, NC, United States",1341.77
+243,,"Darmstadt, Germany",-
+244,,"Bristol, United Kingdom",1048.95
+245,,"Chicago, IL, United States",1782.28
+246,,"Dresden, Germany",-
+247,,"Cincinnati, OH, United States",962.22
+248,,"Cleveland, OH, United States",857.69
+249,,"Cambridge, United Kingdom",1366.24
+250,,"Colorado Springs, CO, United States",902.27
+251,,"Cardiff, United Kingdom",842.39
+252,,"Columbus, OH, United States",1057.50
+253,,"Frankfurt, Germany",1017.79
+254,,"Freiburg im Breisgau, Germany",737.05
+255,,"Dallas, TX, United States",1306.70
+256,,"Denver, CO, United States",1623.00
+257,,"Coventry, United Kingdom",770.90
+258,,"Des Moines, IA, United States",950.00
+259,,"Detroit, MI, United States",1215.00
+260,,"Hamburg, Germany",846.80
+261,,"Durham, NC, United States",-
+262,,"Playa del Carmen, Mexico",-
+263,,"Derby, United Kingdom",579.77
+264,,"El Paso, TX, United States",610.83
+265,,"Fort Wayne, IN, United States",-
+266,,"Hanover, Germany",-
+267,,"Fort Worth, TX, United States",1187.33
+268,,"Wellington, New Zealand",1268.66
+269,,"Charleston, SC, United States",1389.00
+270,,"Fremont, CA, United States",2230.00
+271,,"Fresno, CA, United States",889.17
+272,,"Waterloo, Canada",922.70
+273,,"Santiago, Chile",447.27
+274,,"Al Ain, United Arab Emirates",-
+275,,"Edinburgh, United Kingdom",922.33
+276,,"Fort Collins, CO, United States",1091.67
+277,,"Merida, Mexico",-
+278,,"Grand Rapids, MI, United States",1120.00
+279,,"Karlsruhe, Germany",-
+280,,"Exeter, United Kingdom",916.32
+281,,"Greensboro, NC, United States",-
+282,,"Glasgow, United Kingdom",777.80
+283,,"Ajijic, Mexico",-
+284,,"Honolulu, HI, United States",1652.94
+285,,"Houston, TX, United States",1367.43
+286,,"Leipzig, Germany",531.32
+287,,"Barranquilla, Colombia",200.08
+288,,"Indianapolis, IN, United States",1203.24
+289,,"Mannheim, Germany",682.94
+290,,"Bogota, Colombia",390.54
+291,,"Munich, Germany",1196.61
+292,,"Jacksonville, FL, United States",1009.84
+293,,"Leeds, United Kingdom",928.24
+294,,"Cali, Colombia",180.07
+295,,"Jersey City, NJ, United States",2680.44
+296,,"Leicester, United Kingdom",-
+297,,"Kansas City, MO, United States",934.62
+298,,"Las Vegas, NV, United States",905.22
+299,,"Nuremberg, Germany",657.19
+300,,"The Hague (Den Haag), Netherlands",989.53
+301,,"Lincoln, NE, United States",-
+302,,"London, United Kingdom",2112.07
+303,,"Little Rock, AR, United States",710.83
+304,,"Harrisburg, PA, United States",-
+305,,"Long Beach, CA, United States",1760.54
+306,,"Los Angeles, CA, United States",2043.57
+307,,"Louisville, KY, United States",904.38
+308,,"Manchester, United Kingdom",946.51
+309,,"Lubbock, TX, United States",-
+310,,"Madison, WI, United States",1112.50
+311,,"Milton Keynes, United Kingdom",992.06
+312,,"Memphis, TN, United States",871.27
+313,,"Newcastle upon Tyne, United Kingdom",-
+314,,"Valletta, Malta",-
+315,,"Mesa, AZ, United States",-
+316,,"Miami, FL, United States",1848.10
+317,,"Milwaukee, WI, United States",1020.59
+318,,"Ajman, United Arab Emirates",-
+319,,"Minneapolis, MN, United States",1414.39
+320,,"Northampton, United Kingdom",-
+321,,"Taichung, Taiwan",-
+322,,"Mobile, AL, United States",801.00
+323,,"Norwich, United Kingdom",-
+324,,"Nottingham, United Kingdom",707.89
+325,,"Boulder, CO, United States",1477.78
+326,,"New Orleans, LA, United States",1387.73
+327,,"Oxford, United Kingdom",1355.30
+328,,"New York, NY, United States",3115.13
+329,,"Stuttgart, Germany",905.83
+330,,"Lagos, Nigeria",834.83
+331,,"Newark, NJ, United States",-
+332,,"Norfolk, VA, United States",-
+333,,"Reading, United Kingdom",1076.00
+334,,"Oakland, CA, United States",2224.92
+335,,"Chandigarh, India",147.55
+336,,"Oklahoma City, OK, United States",825.00
+337,,"Omaha, NE, United States",892.67
+338,,"Orlando, FL, United States",1231.48
+339,,"Sheffield, United Kingdom",777.27
+340,,"Athens, Greece",329.20
+341,,"Philadelphia, PA, United States",1523.96
+342,,"Southampton, United Kingdom",909.49
+343,,"Phoenix, AZ, United States",1053.96
+344,,"Pittsburgh, PA, United States",1158.50
+345,,"Patras, Greece",247.55
+346,,"Plano, TX, United States",-
+347,,"Portland, OR, United States",1530.79
+348,,"Raleigh, NC, United States",1186.06
+349,,"Reno, NV, United States",940.00
+350,,"Santa Rosa, CA, United States",1824.67
+351,,"Richmond, VA, United States",1121.88
+352,,"Riverside, CA, United States",-
+353,,"Rochester, NY, United States",850.90
+354,,"Swindon, United Kingdom",913.18
+355,,"Budapest, Hungary",486.41
+356,,"Sacramento, CA, United States",1261.11
+357,,"Saint Louis, MO, United States",958.75
+358,,"Naples, FL, United States",-
+359,,"Debrecen, Hungary",258.39
+360,,"Saint Paul, MN, United States",1370.00
+361,,"Saint Petersburg, FL, United States",1057.14
+362,,"Salt Lake City, UT, United States",1087.07
+363,,"San Antonio, TX, United States",987.69
+364,,"Quebec City, Canada",541.28
+365,,"San Diego, CA, United States",1825.88
+366,,"San Francisco, CA, United States",3274.06
+367,,"York, United Kingdom",-
+368,,"San Jose, CA, United States",2369.19
+369,,"Scottsdale, AZ, United States",1264.00
+370,,"Seattle, WA, United States",1965.81
+371,,"Shreveport, LA, United States",-
+372,,"Spokane, WA, United States",867.86
+373,,"Malmo, Sweden",792.47
+374,,"Tacoma, WA, United States",1168.75
+375,,"Tampa, FL, United States",1300.19
+376,,"Hartford, CT, United States",-
+377,,"Toledo, OH, United States",605.00
+378,,"Tucson, AZ, United States",641.11
+379,,"Tulsa, OK, United States",785.00
+380,,"Virginia Beach, VA, United States",1320.00
+381,,"Washington, DC, United States",2146.79
+382,,"Wichita, KS, United States",740.00
+383,,"Winston-Salem, NC, United States",-
+384,,"Sunnyvale, CA, United States",3010.00
+385,,"Columbia, SC, United States",850.00
+386,,"Montevideo, Uruguay",579.11
+387,,"Kota Kinabalu, Malaysia",-
+388,,"Kigali, Rwanda",-
+389,,"Brighton, United Kingdom",1204.66
+390,,"Reykjavik, Iceland",1848.87
+391,,"Caracas, Venezuela",-
+392,,"Cancun, Mexico",-
+393,,"Asheville, NC, United States",1171.43
+394,,"Cebu, Philippines",363.59
+395,,"Bath, United Kingdom",-
+396,,"Cork, Ireland",1041.20
+397,,"Davao, Philippines",258.55
+398,,"Dublin, Ireland",1652.33
+399,,"Heidelberg, Germany",940.44
+400,,"Penang, Malaysia",-
+401,,"Galway, Ireland",962.83
+402,,"Santo Domingo, Dominican Republic",351.70
+403,,"Limerick, Ireland",857.17
+404,,"Makati, Philippines",813.59
+405,,"Adelaide, Australia",1173.40
+406,,"Yerevan, Armenia",279.01
+407,,"Manila, Philippines",480.75
+408,,"Fairfax, VA, United States",1760.00
+409,,"Brisbane, Australia",1235.48
+410,,"Cuenca, Ecuador",334.17
+411,,"Cairns, Australia",774.85
+412,,"Canberra, Australia",1292.26
+413,,"Havana, Cuba",-
+414,,"Manama, Bahrain",977.42
+415,,"Darwin, Australia",-
+416,,"Guayaquil, Ecuador",-
+417,,"Gold Coast, Australia",-
+418,,"Quezon City, Philippines",-
+419,,"Hobart, Australia",-
+420,,"Melbourne, Australia",1313.67
+421,,"Al Jizah, Egypt",-
+422,,"Perth, Australia",1249.08
+423,,"Bari, Italy",-
+424,,"Bergamo, Italy",-
+425,,"Sydney, Australia",1982.32
+426,,"Bologna, Italy",645.62
+427,,"Alexandria, Egypt",124.06
+428,,"Quito, Ecuador",400.00
+429,,"Cagliari, Italy",-
+430,,"Catania, Italy",-
+431,,"Florence, Italy",860.03
+432,,"Genoa, Italy",604.57
+433,,"Paphos, Cyprus",-
+434,,"Milan, Italy",1156.89
+435,,"Cairo, Egypt",160.85
+436,,"Florianopolis, Brazil",418.27
+437,,"Modena, Italy",-
+438,,"Baku, Azerbaijan",304.14
+439,,"Naples, Italy",-
+440,,"Padova, Italy",-
+441,,"Portland, ME, United States",1241.67
+442,,"Palermo, Italy",492.61
+443,,"Albany, NY, United States",900.00
+444,,"Mangalore, India",142.89
+445,,"Rome, Italy",1037.35
+446,,"Dayton, OH, United States",733.00
+447,,"Newcastle, Australia",1253.90
+448,,"Trieste, Italy",584.98
+449,,"Turin, Italy",594.17
+450,,"Syracuse, NY, United States",1080.00
+451,,"Greenville, SC, United States",1195.00
+452,,"Gainesville, FL, United States",-
+453,,"Fort Myers, FL, United States",1020.00
+454,,"Santa Cruz, CA, United States",1720.00
+455,,"Singapore, Singapore",2198.00
+456,,"Isfahan (Esfahan), Iran",348.59
+457,,"Sao Jose dos Campos, Brazil",-
+458,,"Berkeley, CA, United States",2533.33
+459,,"Springfield, MO, United States",623.57
+460,,"Busan, South Korea",-
+461,,"Wilmington, NC, United States",880.00
+462,,"Mashhad, Iran",313.33
+463,,"San Salvador, El Salvador",470.83
+464,,"Dhaka, Bangladesh",185.91
+465,,"Shiraz, Iran",-
+466,,"Riga, Latvia",440.36
+467,,"Tehran, Iran",584.53
+468,,"Nis, Serbia",-
+469,,"Liverpool, United Kingdom",807.72
+470,,"Santa Monica, CA, United States",-
+471,,"Nanaimo, BC, Canada",698.68
+472,,"Vancouver, WA, United States",1180.00
+473,,"Seoul, South Korea",809.90
+474,,"Al Khobar, Saudi Arabia",-
+475,,"Phnom Penh, Cambodia",515.00
+476,,"Bali, Indonesia",-
+477,,"Colombo, Sri Lanka",274.91
+478,,"Kaunas, Lithuania",392.65
+479,,"Red Deer, Canada",699.09
+480,,"Klaipeda, Lithuania",357.64
+481,,"Baghdad, Iraq",452.76
+482,,"Addis Ababa, Ethiopia",-
+483,,"Beijing, China",866.14
+484,,"Huntsville, AL, United States",833.33
+485,,"Cape Town, South Africa",788.84
+486,,"Durban, South Africa",337.74
+487,,"Erbil (Irbil), Iraq",450.00
+488,,"Vilnius, Lithuania",523.96
+489,,"Johannesburg, South Africa",553.88
+490,,"Chengdu, China",441.24
+491,,"Port Elizabeth, South Africa",317.33
+492,,"Guangzhou, China",506.61
+493,,"Pretoria, South Africa",375.93
+494,,"Luxembourg, Luxembourg",1556.74
+495,,"Haifa, Israel",676.52
+496,,"Ann Arbor, MI, United States",1491.67
+497,,"Ramat Gan, Israel",1107.99
+498,,"Kaohsiung, Taiwan",-
+499,,"Rishon Leziyyon, Israel",1019.03
+500,,"Tel Aviv-Yafo, Israel",1498.59
+501,,"Taipei, Taiwan",580.63
+502,,"Bangkok, Thailand",604.73
+503,,"Shanghai, China",1042.80
+504,,"Skopje, North Macedonia",254.37
+505,,"Brooklyn, NY, United States",2527.27
+506,,"Chiang Mai, Thailand",304.24
+507,,"Melbourne, FL, United States",-
+508,,"Shenzhen, China",644.08
+509,,"Accra, Ghana",-
+510,,"Pensacola, FL, United States",-
+511,,"Amman, Jordan",460.07
+512,,"Alexandria, VA, United States",1697.58
+513,,"Kalamazoo, MI, United States",-
+514,,"Phuket, Thailand",317.96
+515,,"Portsmouth, United Kingdom",-
+516,,"Dar es Salaam, Tanzania",-
+517,,"Kazan, Russia",379.38
+518,,"Santa Barbara, CA, United States",1818.75
+519,,"Queretaro, Mexico",277.50
+520,,"Fredericton, Canada",-
+521,,"Everett, WA, United States",-
+522,,"Guatemala City, Guatemala",370.65
+523,,"Sliema, Malta",942.30
+524,,"Bellevue, WA, United States",2023.29
+525,,"Bhubaneswar, India",-
+526,,"Manchester, NH, United States",-
+527,,"Chisinau, Moldova",273.69
+528,,"Rockville, MD, United States",-
+529,,"Hanoi, Vietnam",325.89
+530,,"Ho Chi Minh City, Vietnam",610.48
+531,,"Kuwait City, Kuwait",823.24
+532,,"Salmiya, Kuwait",889.10
+533,,"Bishkek, Kyrgyzstan",303.04
+534,,"Tunis, Tunisia",218.86
+535,,"Amsterdam, Netherlands",1648.56
+536,,"Queens, NY, United States",2220.00
+537,,"Delft, Netherlands",-
+538,,"Eindhoven, Netherlands",1050.00
+539,,"Enschede, Netherlands",738.92
+540,,"Groningen, Netherlands",860.67
+541,,"Leiden, Netherlands",916.93
+542,,"Maastricht, Netherlands",-
+543,,"Nijmegen, Netherlands",696.00
+544,,"Rotterdam, Netherlands",1094.13
+545,,"Utrecht, Netherlands",1078.86
+546,,"Olympia, WA, United States",-
+547,,"Beirut, Lebanon",1013.30
+548,,"Sarasota, FL, United States",-
+549,,"Bergen, Norway",1107.06
+550,,"Kampala, Uganda",-
+551,,"Goiania, Brazil",224.52
+552,,"Lexington, KY, United States",-
+553,,"Oslo, Norway",1419.30
+554,,"Trondheim, Norway",1182.65
+555,,"Bydgoszcz, Poland",-
+556,,"Tallahassee, FL, United States",-
+557,,"Krakow (Cracow), Poland",505.93
+558,,"Fort Lauderdale, FL, United States",1317.78
+559,,"Gdansk, Poland",501.99
+560,,"Nashville, TN, United States",1511.32
+561,,"Gdynia, Poland",460.13
+562,,"Nairobi, Kenya",312.70
+563,,"St.Catharines, Canada",690.43
+564,,"Katowice, Poland",377.87
+565,,"Tbilisi, Georgia",335.69
+566,,"Lublin, Poland",-
+567,,"Saint John, Canada",-
+568,,"Muscat, Oman",737.56
+569,,"Suzhou, China",-
+570,,"Niteroi, Brazil",-
+571,,"Poznan, Poland",435.23
+572,,"Rzeszow, Poland",353.13
+573,,"Szczecin, Poland",-
+574,,"Warsaw, Poland",620.87
+575,,"Wroclaw, Poland",540.24
+576,,"Dusseldorf, Germany",871.67
+577,,"West Palm Beach, FL, United States",1375.00
+578,,"Aveiro, Portugal",459.02
+579,,"Islamabad, Pakistan",238.75
+580,,"Braga, Portugal",-
+581,,"Noida, India",167.01
+582,,"Coimbra, Portugal",368.21
+583,,"Karachi, Pakistan",229.43
+584,,"Erie, PA, United States",-
+585,,"Lahore, Pakistan",195.10
+586,,"Hong Kong, Hong Kong",2107.33
+587,,"Funchal, Portugal",-
+588,,"Lisbon, Portugal",803.85
+589,,"Tirana, Albania",290.73
+590,,"Porto, Portugal",551.13
+591,,"Goa, India",173.95
+592,,"Rawalpindi, Pakistan",-
+593,,"Arad, Romania",-
+594,,"Brasov, Romania",298.54
+595,,"Bucharest, Romania",401.09
+596,,"Ahmedabad, India",153.83
+597,,"Cluj-Napoca, Romania",364.29
+598,,"Craiova, Romania",-
+599,,"Graz, Austria",585.22
+600,,"Bangalore, India",244.08
+601,,"Innsbruck, Austria",903.87
+602,,"Arlington, TX, United States",-
+603,,"Iasi, Romania",332.42
+604,,"Athens, GA, United States",-
+605,,"Chennai, India",182.29
+606,,"Coimbatore, India",137.66
+607,,"Oradea, Romania",245.59
+608,,"Doha, Qatar",1964.80
+609,,"Delhi, India",236.93
+610,,"Linz, Austria",754.59
+611,,"Salzburg, Austria",862.07
+612,,"Gurgaon, India",269.38
+613,,"Guwahati, India",126.84
+614,,"Sibiu, Romania",-
+615,,"Ad Dammam, Saudi Arabia",393.24
+616,,"Vienna, Austria",867.50
+617,,"Hyderabad, India",175.80
+618,,"Indore, India",138.49
+619,,"Jaipur, India",144.44
+620,,"Kingston, Jamaica",-
+621,,"Tripoli, Libya",-
+622,,"Timisoara, Romania",294.90
+623,,"Kolkata, India",211.71
+624,,"Jeddah (Jiddah), Saudi Arabia",431.90
+625,,"Lucknow (Lakhnau), India",144.96
+626,,"Chelyabinsk, Russia",252.49
+627,,"Mumbai, India",578.12
+628,,"Riyadh, Saudi Arabia",521.24
+629,,"Mysore, India",111.31
+630,,"Nagpur, India",130.46
+631,,"Kaliningrad, Russia",286.39
+632,,"Pune, India",220.30
+633,,"Minsk, Belarus",357.36
+634,,"Harare, Zimbabwe",-
+635,,"Surat, India",91.63
+636,,"Thane, India",-
+637,,"Krasnodar, Russia",339.00
+638,,"Vadodara, India",108.72
+639,,"Vijayawada, India",-
+640,,"Visakhapatnam, India",112.72
+641,,"Moscow, Russia",1037.40
+642,,"Bandung, Indonesia",-
+643,,"Damascus, Syria",-
+644,,"Nizhny Novgorod, Russia",347.92
+645,,"Jakarta, Indonesia",462.64
+646,,"Antwerp, Belgium",758.82
+647,,"Lviv, Ukraine",303.94
+648,,"Novosibirsk, Russia",397.44
+649,,"Medan, Indonesia",-
+650,,"Brussels, Belgium",872.89
+651,,"Gent, Belgium",790.70
+652,,"Surabaya, Indonesia",278.52
+653,,"Rostov-na-donu, Russia",326.14

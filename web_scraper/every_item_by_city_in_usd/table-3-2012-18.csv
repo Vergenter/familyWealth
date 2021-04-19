@@ -1,0 +1,259 @@
+,Rank,City,One-way Ticket (Local Transport)
+0,,"Saint Petersburg, Russia",0.76
+1,,"Florence, Italy",1.48
+2,,"Genoa, Italy",1.85
+3,,"Milan, Italy",1.85
+4,,"Cairo, Egypt",0.23
+5,,"Banja Luka, Bosnia And Herzegovina",0.99
+6,,"Baku, Azerbaijan",0.25
+7,,"Naples, Italy",1.48
+8,,"Guadalajara, Mexico",0.42
+9,,"Mexico City, Mexico",0.28
+10,,"Rome, Italy",1.85
+11,,"Monterrey, Mexico",0.70
+12,,"Sarajevo, Bosnia And Herzegovina",1.11
+13,,"Trieste, Italy",1.42
+14,,"Turin, Italy",1.85
+15,,"Belgrade, Serbia",0.74
+16,,"Selangor, Malaysia",0.39
+17,,"Sofia, Bulgaria",0.63
+18,,"Novi Sad, Serbia",0.49
+19,,"Varna, Bulgaria",0.63
+20,,"Luanda, Angola",-
+21,,"Singapore, Singapore",1.18
+22,,"Tokyo, Japan",2.04
+23,,"Rijeka, Croatia",1.64
+24,,"Almaty, Kazakhstan",0.55
+25,,"Bratislava, Slovakia",1.11
+26,,"Zagreb, Croatia",1.97
+27,,"Dhaka, Bangladesh",0.29
+28,,"Riga, Latvia",0.89
+29,,"Tehran, Iran",0.24
+30,,"Limassol, Cyprus",1.23
+31,,"Liverpool, United Kingdom",3.08
+32,,"Abu Dhabi, United Arab Emirates",0.54
+33,,"Nicosia, Cyprus",1.23
+34,,"Dubai, United Arab Emirates",1.33
+35,,"Brno, Czech Republic",1.20
+36,,"Panama City, Panama",-
+37,,"Seoul, South Korea",0.93
+38,,"Johor Bahru, Malaysia",0.94
+39,,"Prague, Czech Republic",1.54
+40,,"Kuala Lumpur, Malaysia",0.63
+41,,"Phnom Penh, Cambodia",1.50
+42,,"Copenhagen, Denmark",3.83
+43,,"Ljubljana, Slovenia",1.48
+44,,"Colombo, Sri Lanka",0.20
+45,,"Kaunas, Lithuania",0.71
+46,,"Addis Ababa, Ethiopia",0.40
+47,,"Beijing, China",0.31
+48,,"Cape Town, South Africa",0.94
+49,,"Durban, South Africa",-
+50,,"Vilnius, Lithuania",0.77
+51,,"Alicante, Spain",1.73
+52,,"Johannesburg, South Africa",2.35
+53,,"Barcelona, Spain",2.47
+54,,"Bilbao, Spain",1.60
+55,,"Lima, Peru",0.56
+56,,"Guangzhou, China",0.31
+57,,"Pretoria, South Africa",2.65
+58,,"Luxembourg, Luxembourg",1.85
+59,,"Madrid, Spain",1.85
+60,,"Tallinn, Estonia",1.23
+61,,"Haifa, Israel",1.69
+62,,"Seville (Sevilla), Spain",1.60
+63,,"Valencia, Spain",2.16
+64,,"Tel Aviv-Yafo, Israel",1.69
+65,,"Taipei, Taiwan",0.60
+66,,"San Juan, Puerto Rico",1.38
+67,,"Belo Horizonte, Brazil",1.31
+68,,"Bangkok, Thailand",0.63
+69,,"Shanghai, China",0.63
+70,,"Skopje, North Macedonia",0.72
+71,,"Chiang Mai, Thailand",0.63
+72,,"Shenzhen, China",0.51
+73,,"Basel, Switzerland",3.76
+74,,"Bern, Switzerland",3.61
+75,,"Accra, Ghana",0.65
+76,,"Amman, Jordan",0.70
+77,,"Geneva, Switzerland",3.61
+78,,"Phuket, Thailand",0.63
+79,,"Stockholm, Sweden",4.95
+80,,"Buenos Aires, Argentina",0.42
+81,,"Lausanne, Switzerland",3.09
+82,,"San Jose, Costa Rica",0.50
+83,,"Curitiba, Brazil",1.28
+84,,"Dar es Salaam, Tanzania",0.38
+85,,"Montreal, Canada",2.91
+86,,"Sao Paulo, Brazil",1.48
+87,,"Gothenburg, Sweden",2.96
+88,,"Zurich, Switzerland",4.12
+89,,"Stavanger, Norway",5.40
+90,,"Ankara, Turkey",1.08
+91,,"Medellin, Colombia",1.00
+92,,"Pattaya, Thailand",0.31
+93,,"Jerusalem, Israel",1.69
+94,,"Istanbul, Turkey",1.08
+95,,"Porto Alegre, Brazil",1.40
+96,,"Izmir, Turkey",0.94
+97,,"Helsinki, Finland",3.33
+98,,"Chisinau, Moldova",0.25
+99,,"Rio de Janeiro, Brazil",1.48
+100,,"Kochi, India",0.18
+101,,"Kathmandu, Nepal",0.29
+102,,"Hanoi, Vietnam",0.24
+103,,"Ho Chi Minh City, Vietnam",0.15
+104,,"Kuwait City, Kuwait",0.89
+105,,"Bishkek, Kyrgyzstan",0.21
+106,,"Kharkiv, Ukraine",0.25
+107,,"Kiev (Kyiv), Ukraine",0.25
+108,,"Calgary, Canada",2.67
+109,,"Brasilia, Brazil",0.99
+110,,"Tunis, Tunisia",0.44
+111,,"Edmonton, Canada",2.91
+112,,"Amsterdam, Netherlands",3.33
+113,,"Halifax, Canada",2.18
+114,,"Kitchener, Canada",2.67
+115,,"Thiruvananthapuram, India",0.18
+116,,"Paris, France",2.22
+117,,"Eindhoven, Netherlands",2.47
+118,,"Ottawa, Canada",3.11
+119,,"Thessaloniki, Greece",0.99
+120,,"Regina, Canada",2.43
+121,,"Split, Croatia",1.80
+122,,"Rotterdam, Netherlands",3.70
+123,,"Saskatoon, Canada",2.91
+124,,"Aberdeen, United Kingdom",3.92
+125,,"Atlanta, GA, United States",2.50
+126,,"Berlin, Germany",2.90
+127,,"Beirut, Lebanon",1.31
+128,,"Austin, TX, United States",1.00
+129,,"Toronto, Canada",2.91
+130,,"Auckland, New Zealand",3.38
+131,,"Vancouver, Canada",2.43
+132,,"Bergen, Norway",4.42
+133,,"Victoria, Canada",2.43
+134,,"Christchurch, New Zealand",1.73
+135,,"Belfast, United Kingdom",2.85
+136,,"Winnipeg, Canada",2.38
+137,,"Birmingham, United Kingdom",2.92
+138,,"Boston, MA, United States",2.25
+139,,"Cologne, Germany",3.21
+140,,"Charlotte, NC, United States",2.00
+141,,"Chicago, IL, United States",2.25
+142,,"Oslo, Norway",4.91
+143,,"Columbus, OH, United States",2.00
+144,,"Frankfurt, Germany",3.09
+145,,"Trondheim, Norway",4.91
+146,,"Dallas, TX, United States",2.75
+147,,"Denver, CO, United States",2.50
+148,,"Detroit, MI, United States",1.75
+149,,"Hamburg, Germany",2.28
+150,,"Krakow (Cracow), Poland",0.85
+151,,"Wellington, New Zealand",2.82
+152,,"Gdansk, Poland",0.85
+153,,"Nashville, TN, United States",1.70
+154,,"Santiago, Chile",1.21
+155,,"Edinburgh, United Kingdom",2.15
+156,,"Nairobi, Kenya",0.48
+157,,"Glasgow, United Kingdom",2.85
+158,,"Honolulu, HI, United States",2.50
+159,,"Katowice, Poland",0.94
+160,,"Houston, TX, United States",1.25
+161,,"Tbilisi, Georgia",0.30
+162,,"Indianapolis, IN, United States",1.75
+163,,"Bogota, Colombia",0.95
+164,,"Muscat, Oman",0.53
+165,,"Munich, Germany",3.09
+166,,"Poznan, Poland",0.85
+167,,"Leeds, United Kingdom",4.31
+168,,"Kansas City, MO, United States",1.50
+169,,"Las Vegas, NV, United States",2.50
+170,,"London, United Kingdom",4.15
+171,,"Los Angeles, CA, United States",1.50
+172,,"Manchester, United Kingdom",3.23
+173,,"Madison, WI, United States",2.00
+174,,"Warsaw, Poland",1.02
+175,,"Miami, FL, United States",2.00
+176,,"Wroclaw, Poland",0.85
+177,,"Minneapolis, MN, United States",2.25
+178,,"Nottingham, United Kingdom",2.62
+179,,"New York, NY, United States",2.25
+180,,"Stuttgart, Germany",2.53
+181,,"Lagos, Nigeria",1.00
+182,,"Dusseldorf, Germany",2.22
+183,,"Reading, United Kingdom",2.77
+184,,"Islamabad, Pakistan",0.25
+185,,"Chandigarh, India",0.27
+186,,"Noida, India",0.36
+187,,"Orlando, FL, United States",2.00
+188,,"Coimbra, Portugal",1.91
+189,,"Karachi, Pakistan",0.22
+190,,"Athens, Greece",1.73
+191,,"Philadelphia, PA, United States",2.00
+192,,"Phoenix, AZ, United States",2.25
+193,,"Lahore, Pakistan",0.32
+194,,"Pittsburgh, PA, United States",2.38
+195,,"Hong Kong, Hong Kong",1.16
+196,,"Portland, OR, United States",2.50
+197,,"Lisbon, Portugal",1.73
+198,,"Raleigh, NC, United States",1.75
+199,,"Richmond, VA, United States",2.75
+200,,"Tirana, Albania",0.27
+201,,"Porto, Portugal",1.48
+202,,"Budapest, Hungary",1.32
+203,,"Saint Louis, MO, United States",2.25
+204,,"Salt Lake City, UT, United States",3.00
+205,,"San Antonio, TX, United States",2.50
+206,,"Quebec City, Canada",2.91
+207,,"San Diego, CA, United States",2.25
+208,,"San Francisco, CA, United States",2.00
+209,,"San Jose, CA, United States",2.00
+210,,"Seattle, WA, United States",2.50
+211,,"Bucharest, Romania",0.41
+212,,"Ahmedabad, India",0.18
+213,,"Malmo, Sweden",2.48
+214,,"Tampa, FL, United States",1.75
+215,,"Cluj-Napoca, Romania",0.49
+216,,"Bangalore, India",0.27
+217,,"Washington, DC, United States",3.25
+218,,"Chennai, India",0.18
+219,,"Doha, Qatar",-
+220,,"Delhi, India",0.36
+221,,"Gurgaon, India",0.44
+222,,"Vienna, Austria",2.47
+223,,"Hyderabad, India",0.18
+224,,"Montevideo, Uruguay",0.95
+225,,"Timisoara, Romania",0.55
+226,,"Kolkata, India",0.14
+227,,"Jeddah (Jiddah), Saudi Arabia",0.53
+228,,"Mumbai, India",0.20
+229,,"Riyadh, Saudi Arabia",2.77
+230,,"Reykjavik, Iceland",2.68
+231,,"Pune, India",0.18
+232,,"Caracas, Venezuela",0.93
+233,,"Minsk, Belarus",0.20
+234,,"Cebu, Philippines",0.26
+235,,"Cork, Ireland",2.10
+236,,"Dublin, Ireland",3.09
+237,,"Moscow, Russia",0.84
+238,,"Penang, Malaysia",0.47
+239,,"Punta del Este, Uruguay",1.00
+240,,"Makati, Philippines",0.52
+241,,"Adelaide, Australia",4.66
+242,,"Damascus, Syria",0.14
+243,,"Yerevan, Armenia",0.25
+244,,"Manila, Philippines",0.31
+245,,"Brisbane, Australia",4.85
+246,,"Jakarta, Indonesia",0.37
+247,,"Canberra, Australia",3.88
+248,,"Manama, Bahrain",0.57
+249,,"Antwerp, Belgium",2.47
+250,,"Darwin, Australia",1.94
+251,,"Gold Coast, Australia",3.88
+252,,"Brussels, Belgium",2.47
+253,,"Melbourne, Australia",3.83
+254,,"Perth, Australia",3.69
+255,,"Sydney, Australia",3.98
+256,,"Bologna, Italy",1.85
+257,,"Quito, Ecuador",0.25
