@@ -1,0 +1,259 @@
+,Rank,City,Apartment (1 bedroom) Outside of Centre
+0,,"Saint Petersburg, Russia",557.52
+1,,"Florence, Italy",839.51
+2,,"Genoa, Italy",555.56
+3,,"Milan, Italy",833.33
+4,,"Cairo, Egypt",123.78
+5,,"Banja Luka, Bosnia And Herzegovina",136.95
+6,,"Baku, Azerbaijan",446.73
+7,,"Naples, Italy",432.10
+8,,"Guadalajara, Mexico",156.79
+9,,"Mexico City, Mexico",286.49
+10,,"Rome, Italy",830.05
+11,,"Monterrey, Mexico",267.13
+12,,"Sarajevo, Bosnia And Herzegovina",165.65
+13,,"Trieste, Italy",432.10
+14,,"Turin, Italy",452.67
+15,,"Belgrade, Serbia",210.00
+16,,"Selangor, Malaysia",220.13
+17,,"Sofia, Bulgaria",216.81
+18,,"Novi Sad, Serbia",176.50
+19,,"Varna, Bulgaria",161.39
+20,,"Luanda, Angola",2083.33
+21,,"Singapore, Singapore",1713.45
+22,,"Tokyo, Japan",837.48
+23,,"Rijeka, Croatia",262.30
+24,,"Almaty, Kazakhstan",411.10
+25,,"Bratislava, Slovakia",486.11
+26,,"Zagreb, Croatia",293.22
+27,,"Dhaka, Bangladesh",132.06
+28,,"Riga, Latvia",309.68
+29,,"Tehran, Iran",402.55
+30,,"Limassol, Cyprus",518.52
+31,,"Liverpool, United Kingdom",605.13
+32,,"Abu Dhabi, United Arab Emirates",1089.92
+33,,"Nicosia, Cyprus",506.17
+34,,"Dubai, United Arab Emirates",901.86
+35,,"Brno, Czech Republic",338.94
+36,,"Panama City, Panama",525.00
+37,,"Seoul, South Korea",551.67
+38,,"Johor Bahru, Malaysia",272.54
+39,,"Prague, Czech Republic",390.27
+40,,"Kuala Lumpur, Malaysia",360.21
+41,,"Phnom Penh, Cambodia",183.33
+42,,"Copenhagen, Denmark",867.07
+43,,"Ljubljana, Slovenia",465.77
+44,,"Colombo, Sri Lanka",215.87
+45,,"Kaunas, Lithuania",374.93
+46,,"Addis Ababa, Ethiopia",155.00
+47,,"Beijing, China",434.92
+48,,"Cape Town, South Africa",518.72
+49,,"Durban, South Africa",549.02
+50,,"Vilnius, Lithuania",248.38
+51,,"Alicante, Spain",411.52
+52,,"Johannesburg, South Africa",487.39
+53,,"Barcelona, Spain",631.53
+54,,"Bilbao, Spain",864.20
+55,,"Lima, Peru",350.00
+56,,"Guangzhou, China",164.84
+57,,"Pretoria, South Africa",352.94
+58,,"Luxembourg, Luxembourg",1111.11
+59,,"Madrid, Spain",696.84
+60,,"Tallinn, Estonia",345.68
+61,,"Haifa, Israel",455.13
+62,,"Seville (Sevilla), Spain",506.17
+63,,"Valencia, Spain",418.54
+64,,"Tel Aviv-Yafo, Israel",791.67
+65,,"Taipei, Taiwan",558.97
+66,,"San Juan, Puerto Rico",550.00
+67,,"Belo Horizonte, Brazil",264.78
+68,,"Bangkok, Thailand",320.28
+69,,"Shanghai, China",618.97
+70,,"Skopje, North Macedonia",177.22
+71,,"Chiang Mai, Thailand",165.15
+72,,"Shenzhen, China",825.75
+73,,"Basel, Switzerland",1030.93
+74,,"Bern, Switzerland",-
+75,,"Accra, Ghana",526.73
+76,,"Amman, Jordan",243.03
+77,,"Geneva, Switzerland",1670.10
+78,,"Phuket, Thailand",188.74
+79,,"Stockholm, Sweden",701.41
+80,,"Buenos Aires, Argentina",374.77
+81,,"Lausanne, Switzerland",1134.02
+82,,"San Jose, Costa Rica",416.67
+83,,"Curitiba, Brazil",209.36
+84,,"Dar es Salaam, Tanzania",465.15
+85,,"Montreal, Canada",610.03
+86,,"Sao Paulo, Brazil",546.80
+87,,"Gothenburg, Sweden",447.04
+88,,"Zurich, Switzerland",1357.78
+89,,"Stavanger, Norway",1522.09
+90,,"Ankara, Turkey",245.78
+91,,"Medellin, Colombia",363.17
+92,,"Pattaya, Thailand",308.27
+93,,"Jerusalem, Israel",500.00
+94,,"Istanbul, Turkey",286.69
+95,,"Porto Alegre, Brazil",336.62
+96,,"Izmir, Turkey",376.34
+97,,"Helsinki, Finland",897.12
+98,,"Chisinau, Moldova",225.90
+99,,"Rio de Janeiro, Brazil",752.12
+100,,"Kochi, India",66.68
+101,,"Kathmandu, Nepal",62.63
+102,,"Hanoi, Vietnam",359.71
+103,,"Ho Chi Minh City, Vietnam",330.30
+104,,"Kuwait City, Kuwait",635.71
+105,,"Bishkek, Kyrgyzstan",206.67
+106,,"Kharkiv, Ukraine",239.31
+107,,"Kiev (Kyiv), Ukraine",417.77
+108,,"Calgary, Canada",933.17
+109,,"Brasilia, Brazil",353.04
+110,,"Tunis, Tunisia",240.01
+111,,"Edmonton, Canada",884.72
+112,,"Amsterdam, Netherlands",979.94
+113,,"Halifax, Canada",703.88
+114,,"Kitchener, Canada",533.98
+115,,"Thiruvananthapuram, India",40.01
+116,,"Paris, France",928.77
+117,,"Eindhoven, Netherlands",811.73
+118,,"Ottawa, Canada",776.70
+119,,"Thessaloniki, Greece",305.74
+120,,"Regina, Canada",800.97
+121,,"Split, Croatia",291.47
+122,,"Rotterdam, Netherlands",802.47
+123,,"Saskatoon, Canada",825.24
+124,,"Aberdeen, United Kingdom",871.79
+125,,"Atlanta, GA, United States",725.00
+126,,"Berlin, Germany",444.44
+127,,"Beirut, Lebanon",559.03
+128,,"Austin, TX, United States",800.00
+129,,"Toronto, Canada",957.00
+130,,"Auckland, New Zealand",827.07
+131,,"Vancouver, Canada",945.17
+132,,"Bergen, Norway",1039.28
+133,,"Victoria, Canada",797.73
+134,,"Christchurch, New Zealand",601.50
+135,,"Belfast, United Kingdom",534.62
+136,,"Winnipeg, Canada",708.74
+137,,"Birmingham, United Kingdom",615.38
+138,,"Boston, MA, United States",1185.50
+139,,"Cologne, Germany",539.09
+140,,"Charlotte, NC, United States",-
+141,,"Chicago, IL, United States",910.00
+142,,"Oslo, Norway",1236.59
+143,,"Columbus, OH, United States",614.50
+144,,"Frankfurt, Germany",452.67
+145,,"Trondheim, Norway",1125.20
+146,,"Dallas, TX, United States",647.50
+147,,"Denver, CO, United States",742.50
+148,,"Detroit, MI, United States",537.50
+149,,"Hamburg, Germany",672.84
+150,,"Krakow (Cracow), Poland",314.27
+151,,"Wellington, New Zealand",915.41
+152,,"Gdansk, Poland",329.57
+153,,"Nashville, TN, United States",683.33
+154,,"Santiago, Chile",400.44
+155,,"Edinburgh, United Kingdom",615.38
+156,,"Nairobi, Kenya",571.00
+157,,"Glasgow, United Kingdom",692.31
+158,,"Honolulu, HI, United States",1433.33
+159,,"Katowice, Poland",282.49
+160,,"Houston, TX, United States",843.75
+161,,"Tbilisi, Georgia",202.55
+162,,"Indianapolis, IN, United States",450.00
+163,,"Bogota, Colombia",382.64
+164,,"Muscat, Oman",482.46
+165,,"Munich, Germany",911.13
+166,,"Poznan, Poland",344.63
+167,,"Leeds, United Kingdom",641.03
+168,,"Kansas City, MO, United States",576.67
+169,,"Las Vegas, NV, United States",650.00
+170,,"London, United Kingdom",1368.72
+171,,"Los Angeles, CA, United States",1066.67
+172,,"Manchester, United Kingdom",730.77
+173,,"Madison, WI, United States",753.33
+174,,"Warsaw, Poland",426.14
+175,,"Miami, FL, United States",1087.50
+176,,"Wroclaw, Poland",353.11
+177,,"Minneapolis, MN, United States",758.33
+178,,"Nottingham, United Kingdom",589.74
+179,,"New York, NY, United States",1420.45
+180,,"Stuttgart, Germany",493.83
+181,,"Lagos, Nigeria",143.04
+182,,"Dusseldorf, Germany",576.13
+183,,"Reading, United Kingdom",997.69
+184,,"Islamabad, Pakistan",347.21
+185,,"Chandigarh, India",90.02
+186,,"Noida, India",122.69
+187,,"Orlando, FL, United States",807.80
+188,,"Coimbra, Portugal",298.35
+189,,"Karachi, Pakistan",59.60
+190,,"Athens, Greece",392.06
+191,,"Philadelphia, PA, United States",1200.00
+192,,"Phoenix, AZ, United States",639.00
+193,,"Lahore, Pakistan",133.51
+194,,"Pittsburgh, PA, United States",700.00
+195,,"Hong Kong, Hong Kong",1183.14
+196,,"Portland, OR, United States",672.73
+197,,"Lisbon, Portugal",484.57
+198,,"Raleigh, NC, United States",640.00
+199,,"Richmond, VA, United States",550.00
+200,,"Tirana, Albania",146.16
+201,,"Porto, Portugal",393.21
+202,,"Budapest, Hungary",193.09
+203,,"Saint Louis, MO, United States",581.25
+204,,"Salt Lake City, UT, United States",703.50
+205,,"San Antonio, TX, United States",650.00
+206,,"Quebec City, Canada",509.71
+207,,"San Diego, CA, United States",1125.00
+208,,"San Francisco, CA, United States",1512.50
+209,,"San Jose, CA, United States",1441.67
+210,,"Seattle, WA, United States",950.00
+211,,"Bucharest, Romania",274.23
+212,,"Ahmedabad, India",121.50
+213,,"Malmo, Sweden",897.94
+214,,"Tampa, FL, United States",641.67
+215,,"Cluj-Napoca, Romania",225.45
+216,,"Bangalore, India",119.08
+217,,"Washington, DC, United States",1264.29
+218,,"Chennai, India",105.84
+219,,"Doha, Qatar",1310.71
+220,,"Delhi, India",134.92
+221,,"Gurgaon, India",152.92
+222,,"Vienna, Austria",635.80
+223,,"Hyderabad, India",83.10
+224,,"Montevideo, Uruguay",406.91
+225,,"Timisoara, Romania",196.66
+226,,"Kolkata, India",62.23
+227,,"Jeddah (Jiddah), Saudi Arabia",350.02
+228,,"Mumbai, India",246.76
+229,,"Riyadh, Saudi Arabia",384.01
+230,,"Reykjavik, Iceland",694.53
+231,,"Pune, India",130.02
+232,,"Caracas, Venezuela",834.51
+233,,"Minsk, Belarus",295.83
+234,,"Cebu, Philippines",230.41
+235,,"Cork, Ireland",637.86
+236,,"Dublin, Ireland",886.64
+237,,"Moscow, Russia",910.45
+238,,"Penang, Malaysia",-
+239,,"Punta del Este, Uruguay",648.78
+240,,"Makati, Philippines",380.18
+241,,"Adelaide, Australia",859.87
+242,,"Damascus, Syria",253.33
+243,,"Yerevan, Armenia",183.33
+244,,"Manila, Philippines",224.65
+245,,"Brisbane, Australia",1430.42
+246,,"Jakarta, Indonesia",250.84
+247,,"Canberra, Australia",1553.40
+248,,"Manama, Bahrain",402.70
+249,,"Antwerp, Belgium",771.60
+250,,"Darwin, Australia",1691.26
+251,,"Gold Coast, Australia",1035.60
+252,,"Brussels, Belgium",771.60
+253,,"Melbourne, Australia",1343.04
+254,,"Perth, Australia",1310.68
+255,,"Sydney, Australia",1763.63
+256,,"Bologna, Italy",679.01
+257,,"Quito, Ecuador",244.00
