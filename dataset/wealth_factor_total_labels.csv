@@ -1,0 +1,21 @@
+Country,group 1,group 2,group 3,group 4
+Austria,False,False,True,False
+Canada,False,False,True,False
+Colombia,False,True,False,False
+Germany,True,False,False,False
+Ecuador,False,True,False,False
+Egypt,False,True,False,False
+Estonia,False,False,False,True
+United Kingdom,False,False,True,False
+Greece,False,False,False,True
+Indonesia,False,True,False,False
+Ireland,False,False,True,False
+Japan,False,False,True,True
+Norway,True,False,True,False
+Panama,False,True,False,True
+Philippines,False,True,False,False
+Poland,False,False,False,True
+Singapore,False,False,True,False
+Slovakia,False,False,False,True
+Ukraine,False,True,False,False
+United States,True,False,True,False
