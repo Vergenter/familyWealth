@@ -1,260 +1,259 @@
 Country,Field,group 1,group 2,group 3,group 4
-Austria,B. Mining and quarrying,False,False,False,True
-Austria,C. Manufacturing,True,False,False,False
-Austria,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
-Austria,"E. Water supply; sewerage, waste management and re",True,False,False,False
-Austria,F. Construction,True,False,False,False
-Austria,G. Wholesale and retail trade; repair of motor veh,True,True,False,False
-Austria,H. Transportation and storage,True,False,False,False
-Austria,I. Accommodation and food service activities,False,True,True,False
-Austria,J. Information and communication,False,False,False,True
-Austria,K. Financial and insurance activities,False,False,False,True
-Austria,L. Real estate activities,True,False,False,False
-Austria,"M. Professional, scientific and technical activiti",True,False,False,False
-Austria,N. Administrative and support service activities,False,True,False,False
-Austria,P. Education,True,True,False,False
-Austria,Q. Human health and social work activities,True,True,False,False
-Austria,"R. Arts, entertainment and recreation",True,True,False,False
-Austria,S. Other service activities,True,True,False,False
-Austria,Total,True,False,False,False
-Canada,Total,True,False,False,False
-Colombia,F. Construction,False,False,True,False
-Colombia,Total,False,False,True,False
-Germany,B. Mining and quarrying,False,False,False,True
-Germany,C. Manufacturing,False,False,False,True
-Germany,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
-Germany,"E. Water supply; sewerage, waste management and re",True,False,False,True
-Germany,F. Construction,True,False,False,False
-Germany,G. Wholesale and retail trade; repair of motor veh,True,False,False,True
-Germany,H. Transportation and storage,True,False,False,False
-Germany,I. Accommodation and food service activities,True,True,False,False
-Germany,J. Information and communication,False,False,False,True
-Germany,K. Financial and insurance activities,False,False,False,True
-Germany,L. Real estate activities,False,False,False,True
-Germany,"M. Professional, scientific and technical activiti",False,False,False,True
-Germany,N. Administrative and support service activities,True,False,False,False
-Germany,O. Public administration and defence; compulsory s,True,False,False,True
-Germany,P. Education,False,False,False,True
-Germany,Q. Human health and social work activities,True,False,False,True
-Germany,"R. Arts, entertainment and recreation",True,False,False,True
-Germany,S. Other service activities,True,False,False,True
-Germany,Total,False,False,False,True
-Ecuador,F. Construction,False,False,True,False
-Ecuador,Total,False,False,True,False
-Egypt,A. Agriculture; forestry and fishing,False,False,True,False
-Egypt,B. Mining and quarrying,False,False,True,False
-Egypt,C. Manufacturing,False,False,True,False
-Egypt,"D. Electricity; gas, steam and air conditioning su",False,False,True,False
-Egypt,"E. Water supply; sewerage, waste management and re",False,False,True,False
-Egypt,F. Construction,False,False,True,False
-Egypt,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
-Egypt,H. Transportation and storage,False,False,True,False
-Egypt,I. Accommodation and food service activities,False,False,True,False
-Egypt,J. Information and communication,False,False,True,False
-Egypt,K. Financial and insurance activities,False,True,True,False
-Egypt,L. Real estate activities,False,False,True,False
-Egypt,"M. Professional, scientific and technical activiti",False,False,True,False
-Egypt,N. Administrative and support service activities,False,False,True,False
-Egypt,P. Education,False,False,True,False
-Egypt,Q. Human health and social work activities,False,False,True,False
-Egypt,"R. Arts, entertainment and recreation",False,False,True,False
-Egypt,S. Other service activities,False,False,True,False
-Egypt,Total,False,False,True,False
-Estonia,B. Mining and quarrying,False,True,False,False
-Estonia,C. Manufacturing,False,True,False,False
-Estonia,"D. Electricity; gas, steam and air conditioning su",True,True,False,False
-Estonia,"E. Water supply; sewerage, waste management and re",False,True,False,False
-Estonia,F. Construction,False,True,False,False
-Estonia,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
-Estonia,H. Transportation and storage,False,True,False,False
-Estonia,I. Accommodation and food service activities,False,True,True,False
-Estonia,J. Information and communication,True,False,False,False
-Estonia,K. Financial and insurance activities,True,False,False,False
-Estonia,L. Real estate activities,False,True,True,False
-Estonia,"M. Professional, scientific and technical activiti",False,True,False,False
-Estonia,N. Administrative and support service activities,False,True,False,False
-Estonia,O. Public administration and defence; compulsory s,False,True,False,False
-Estonia,P. Education,False,True,False,False
-Estonia,Q. Human health and social work activities,False,True,False,False
-Estonia,"R. Arts, entertainment and recreation",False,True,True,False
-Estonia,S. Other service activities,False,True,True,False
-Estonia,Total,False,True,False,False
-United Kingdom,A. Agriculture; forestry and fishing,False,True,False,False
-United Kingdom,B. Mining and quarrying,False,False,False,True
-United Kingdom,C. Manufacturing,True,False,False,False
-United Kingdom,"D. Electricity; gas, steam and air conditioning su",True,False,False,True
-United Kingdom,"E. Water supply; sewerage, waste management and re",True,False,False,False
-United Kingdom,F. Construction,True,False,False,False
-United Kingdom,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
-United Kingdom,H. Transportation and storage,True,False,False,False
-United Kingdom,I. Accommodation and food service activities,False,True,False,False
-United Kingdom,J. Information and communication,True,False,False,True
-United Kingdom,K. Financial and insurance activities,False,False,False,True
-United Kingdom,L. Real estate activities,True,False,False,False
-United Kingdom,"M. Professional, scientific and technical activiti",True,False,False,True
-United Kingdom,N. Administrative and support service activities,True,True,False,False
-United Kingdom,O. Public administration and defence; compulsory s,True,False,False,False
-United Kingdom,P. Education,True,True,False,False
-United Kingdom,Q. Human health and social work activities,True,True,False,False
-United Kingdom,"R. Arts, entertainment and recreation",False,True,False,False
-United Kingdom,S. Other service activities,True,True,False,False
-United Kingdom,T. Activities of households as employers; undiffer,False,True,True,False
-United Kingdom,Total,True,False,False,False
-Greece,B. Mining and quarrying,False,True,False,False
-Greece,C. Manufacturing,False,True,True,False
-Greece,"D. Electricity; gas, steam and air conditioning su",True,True,False,False
-Greece,"E. Water supply; sewerage, waste management and re",False,True,False,False
-Greece,F. Construction,False,True,True,False
-Greece,G. Wholesale and retail trade; repair of motor veh,False,True,True,False
-Greece,H. Transportation and storage,False,True,False,False
-Greece,I. Accommodation and food service activities,False,True,True,False
-Greece,J. Information and communication,False,True,False,False
-Greece,K. Financial and insurance activities,False,True,False,False
-Greece,L. Real estate activities,False,True,True,False
-Greece,"M. Professional, scientific and technical activiti",False,True,False,False
-Greece,N. Administrative and support service activities,False,True,True,False
-Greece,O. Public administration and defence; compulsory s,False,True,False,False
-Greece,P. Education,False,True,False,False
-Greece,Q. Human health and social work activities,False,True,False,False
-Greece,"R. Arts, entertainment and recreation",False,True,True,False
-Greece,S. Other service activities,False,True,True,False
-Greece,Total,False,True,False,False
-Indonesia,Total,False,False,True,False
-Ireland,B. Mining and quarrying,True,False,False,True
-Ireland,C. Manufacturing,True,False,False,False
-Ireland,F. Construction,True,False,False,False
-Ireland,G. Wholesale and retail trade; repair of motor veh,True,True,False,False
-Ireland,H. Transportation and storage,True,False,False,False
-Ireland,I. Accommodation and food service activities,False,True,False,False
-Ireland,J. Information and communication,False,False,False,True
-Ireland,K. Financial and insurance activities,False,False,False,True
-Ireland,L. Real estate activities,True,False,False,False
-Ireland,"M. Professional, scientific and technical activiti",True,False,False,False
-Ireland,N. Administrative and support service activities,True,True,False,False
-Ireland,O. Public administration and defence; compulsory s,True,False,False,True
-Ireland,P. Education,True,False,False,False
-Ireland,Q. Human health and social work activities,True,False,False,False
-Ireland,"R. Arts, entertainment and recreation",False,True,False,False
-Ireland,S. Other service activities,False,True,False,False
-Ireland,Total,True,False,False,False
-Japan,B. Mining and quarrying,True,True,False,False
-Japan,F. Construction,True,True,False,False
-Japan,G. Wholesale and retail trade; repair of motor veh,True,True,False,False
-Japan,H. Transportation and storage,False,True,False,False
-Japan,I. Accommodation and food service activities,False,True,False,False
-Japan,J. Information and communication,True,False,False,False
-Japan,K. Financial and insurance activities,True,False,False,False
-Japan,L. Real estate activities,True,True,False,False
-Japan,"M. Professional, scientific and technical activiti",True,False,False,False
-Japan,P. Education,True,False,False,False
-Japan,Q. Human health and social work activities,False,True,False,False
-Japan,"R. Arts, entertainment and recreation",False,True,False,False
-Japan,S. Other service activities,False,True,False,False
-Japan,Total,True,True,False,False
-Mexico,C. Manufacturing,False,False,True,False
-Norway,A. Agriculture; forestry and fishing,True,False,False,False
-Norway,B. Mining and quarrying,False,False,False,True
-Norway,C. Manufacturing,True,False,False,False
-Norway,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
-Norway,"E. Water supply; sewerage, waste management and re",True,False,False,False
-Norway,F. Construction,True,False,False,False
-Norway,G. Wholesale and retail trade; repair of motor veh,True,False,False,False
-Norway,H. Transportation and storage,True,False,False,False
-Norway,I. Accommodation and food service activities,True,True,False,False
-Norway,J. Information and communication,False,False,False,True
-Norway,K. Financial and insurance activities,False,False,False,True
-Norway,L. Real estate activities,True,False,False,True
-Norway,"M. Professional, scientific and technical activiti",False,False,False,True
-Norway,N. Administrative and support service activities,True,False,False,False
-Norway,O. Public administration and defence; compulsory s,True,False,False,True
-Norway,P. Education,True,False,False,False
-Norway,Q. Human health and social work activities,True,False,False,False
-Norway,"R. Arts, entertainment and recreation",True,False,False,False
-Norway,S. Other service activities,True,False,False,False
-Norway,Total,True,False,False,False
-Panama,F. Construction,False,False,True,False
-Panama,Total,False,False,True,False
-Philippines,A. Agriculture; forestry and fishing,False,False,True,False
-Philippines,B. Mining and quarrying,False,False,True,False
-Philippines,C. Manufacturing,False,False,True,False
-Philippines,"D. Electricity; gas, steam and air conditioning su",False,False,True,False
-Philippines,"E. Water supply; sewerage, waste management and re",False,False,True,False
-Philippines,F. Construction,False,False,True,False
-Philippines,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
-Philippines,H. Transportation and storage,False,False,True,False
-Philippines,I. Accommodation and food service activities,False,False,True,False
-Philippines,J. Information and communication,False,False,True,False
-Philippines,K. Financial and insurance activities,False,False,True,False
-Philippines,L. Real estate activities,False,False,True,False
-Philippines,"M. Professional, scientific and technical activiti",False,False,True,False
-Philippines,N. Administrative and support service activities,False,False,True,False
-Philippines,P. Education,False,False,True,False
-Philippines,"R. Arts, entertainment and recreation",False,False,True,False
-Philippines,S. Other service activities,False,False,True,False
-Philippines,U. Activities of extraterritorial organizations an,False,True,True,False
-Philippines,Total,False,False,True,False
-Poland,A. Agriculture; forestry and fishing,False,True,False,False
-Poland,B. Mining and quarrying,True,False,False,False
-Poland,C. Manufacturing,False,True,False,False
-Poland,"D. Electricity; gas, steam and air conditioning su",True,False,False,False
-Poland,"E. Water supply; sewerage, waste management and re",False,True,False,False
-Poland,F. Construction,False,True,False,False
-Poland,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
-Poland,H. Transportation and storage,False,True,False,False
-Poland,I. Accommodation and food service activities,False,True,True,False
-Poland,J. Information and communication,True,False,False,False
-Poland,K. Financial and insurance activities,True,False,False,False
-Poland,L. Real estate activities,False,True,False,False
-Poland,"M. Professional, scientific and technical activiti",False,True,False,False
-Poland,N. Administrative and support service activities,False,True,True,False
-Poland,O. Public administration and defence; compulsory s,False,True,False,False
-Poland,P. Education,False,True,False,False
-Poland,Q. Human health and social work activities,False,True,False,False
-Poland,"R. Arts, entertainment and recreation",False,True,False,False
-Poland,S. Other service activities,False,True,True,False
-Poland,Total,False,True,False,False
-Singapore,Total,True,False,False,False
-Slovakia,A. Agriculture; forestry and fishing,False,True,True,False
-Slovakia,B. Mining and quarrying,False,True,False,False
-Slovakia,C. Manufacturing,False,True,False,False
-Slovakia,"D. Electricity; gas, steam and air conditioning su",True,True,False,False
-Slovakia,"E. Water supply; sewerage, waste management and re",False,True,False,False
-Slovakia,F. Construction,False,True,False,False
-Slovakia,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
-Slovakia,H. Transportation and storage,False,True,False,False
-Slovakia,I. Accommodation and food service activities,False,True,True,False
-Slovakia,J. Information and communication,True,False,False,False
-Slovakia,K. Financial and insurance activities,True,False,False,False
-Slovakia,L. Real estate activities,False,True,False,False
-Slovakia,"M. Professional, scientific and technical activiti",False,True,False,False
-Slovakia,N. Administrative and support service activities,False,True,True,False
-Slovakia,O. Public administration and defence; compulsory s,False,True,False,False
-Slovakia,P. Education,False,True,False,False
-Slovakia,Q. Human health and social work activities,False,True,False,False
-Slovakia,"R. Arts, entertainment and recreation",False,True,True,False
-Slovakia,S. Other service activities,False,True,True,False
-Slovakia,Total,False,True,False,False
-Ukraine,F. Construction,False,False,True,False
-Ukraine,Total,False,False,True,False
-United States,A. Agriculture; forestry and fishing,True,True,False,False
-United States,B. Mining and quarrying,False,False,False,True
-United States,C. Manufacturing,True,False,False,True
-United States,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
-United States,"E. Water supply; sewerage, waste management and re",True,False,False,True
-United States,F. Construction,True,False,False,True
-United States,G. Wholesale and retail trade; repair of motor veh,True,False,False,False
-United States,H. Transportation and storage,True,False,False,True
-United States,I. Accommodation and food service activities,False,True,False,False
-United States,J. Information and communication,False,False,False,True
-United States,K. Financial and insurance activities,False,False,False,True
-United States,L. Real estate activities,True,False,False,True
-United States,"M. Professional, scientific and technical activiti",False,False,False,True
-United States,N. Administrative and support service activities,True,False,False,False
-United States,O. Public administration and defence; compulsory s,False,False,False,True
-United States,P. Education,True,False,False,False
-United States,Q. Human health and social work activities,True,False,False,False
-United States,"R. Arts, entertainment and recreation",True,True,False,False
-United States,S. Other service activities,True,False,False,False
-United States,T. Activities of households as employers; undiffer,False,True,False,False
-United States,U. Activities of extraterritorial organizations an,False,False,False,True
-United States,Total,True,False,False,False
+Austria,B. Mining and quarrying,True,False,False,False
+Austria,C. Manufacturing,False,True,False,False
+Austria,"D. Electricity; gas, steam and air conditioning su",True,False,False,False
+Austria,"E. Water supply; sewerage, waste management and re",False,True,False,False
+Austria,F. Construction,False,True,False,False
+Austria,G. Wholesale and retail trade; repair of motor veh,False,True,True,False
+Austria,H. Transportation and storage,False,True,False,False
+Austria,I. Accommodation and food service activities,False,False,True,True
+Austria,J. Information and communication,True,False,False,False
+Austria,K. Financial and insurance activities,True,False,False,False
+Austria,L. Real estate activities,False,True,False,False
+Austria,"M. Professional, scientific and technical activiti",False,True,False,False
+Austria,N. Administrative and support service activities,False,False,True,False
+Austria,P. Education,False,True,True,False
+Austria,Q. Human health and social work activities,False,True,True,False
+Austria,"R. Arts, entertainment and recreation",False,True,True,False
+Austria,S. Other service activities,False,True,True,False
+Austria,Total,False,True,False,False
+Canada,Total,False,True,False,False
+Colombia,F. Construction,False,False,False,True
+Colombia,Total,False,False,False,True
+Germany,B. Mining and quarrying,True,False,False,False
+Germany,C. Manufacturing,True,False,False,False
+Germany,"D. Electricity; gas, steam and air conditioning su",True,False,False,False
+Germany,"E. Water supply; sewerage, waste management and re",True,True,False,False
+Germany,F. Construction,False,True,False,False
+Germany,G. Wholesale and retail trade; repair of motor veh,True,True,False,False
+Germany,H. Transportation and storage,False,True,False,False
+Germany,I. Accommodation and food service activities,False,True,True,False
+Germany,J. Information and communication,True,False,False,False
+Germany,K. Financial and insurance activities,True,False,False,False
+Germany,L. Real estate activities,True,False,False,False
+Germany,"M. Professional, scientific and technical activiti",True,False,False,False
+Germany,N. Administrative and support service activities,False,True,False,False
+Germany,O. Public administration and defence; compulsory s,True,True,False,False
+Germany,P. Education,True,False,False,False
+Germany,Q. Human health and social work activities,True,True,False,False
+Germany,"R. Arts, entertainment and recreation",True,True,False,False
+Germany,S. Other service activities,True,True,False,False
+Germany,Total,True,False,False,False
+Ecuador,F. Construction,False,False,False,True
+Ecuador,Total,False,False,False,True
+Egypt,A. Agriculture; forestry and fishing,False,False,False,True
+Egypt,B. Mining and quarrying,False,False,False,True
+Egypt,C. Manufacturing,False,False,False,True
+Egypt,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
+Egypt,"E. Water supply; sewerage, waste management and re",False,False,False,True
+Egypt,F. Construction,False,False,False,True
+Egypt,G. Wholesale and retail trade; repair of motor veh,False,False,False,True
+Egypt,H. Transportation and storage,False,False,False,True
+Egypt,I. Accommodation and food service activities,False,False,False,True
+Egypt,J. Information and communication,False,False,False,True
+Egypt,K. Financial and insurance activities,False,False,True,True
+Egypt,L. Real estate activities,False,False,False,True
+Egypt,"M. Professional, scientific and technical activiti",False,False,False,True
+Egypt,N. Administrative and support service activities,False,False,False,True
+Egypt,P. Education,False,False,False,True
+Egypt,Q. Human health and social work activities,False,False,False,True
+Egypt,"R. Arts, entertainment and recreation",False,False,False,True
+Egypt,S. Other service activities,False,False,False,True
+Egypt,Total,False,False,False,True
+Estonia,B. Mining and quarrying,False,False,True,False
+Estonia,C. Manufacturing,False,False,True,False
+Estonia,"D. Electricity; gas, steam and air conditioning su",False,True,True,False
+Estonia,"E. Water supply; sewerage, waste management and re",False,False,True,False
+Estonia,F. Construction,False,False,True,False
+Estonia,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
+Estonia,H. Transportation and storage,False,False,True,False
+Estonia,I. Accommodation and food service activities,False,False,True,True
+Estonia,J. Information and communication,False,True,False,False
+Estonia,K. Financial and insurance activities,False,True,False,False
+Estonia,L. Real estate activities,False,False,True,True
+Estonia,"M. Professional, scientific and technical activiti",False,False,True,False
+Estonia,N. Administrative and support service activities,False,False,True,False
+Estonia,O. Public administration and defence; compulsory s,False,False,True,False
+Estonia,P. Education,False,False,True,False
+Estonia,Q. Human health and social work activities,False,False,True,False
+Estonia,"R. Arts, entertainment and recreation",False,False,True,True
+Estonia,S. Other service activities,False,False,True,True
+Estonia,Total,False,False,True,False
+United Kingdom,A. Agriculture; forestry and fishing,False,False,True,False
+United Kingdom,B. Mining and quarrying,True,False,False,False
+United Kingdom,C. Manufacturing,False,True,False,False
+United Kingdom,"D. Electricity; gas, steam and air conditioning su",True,True,False,False
+United Kingdom,"E. Water supply; sewerage, waste management and re",False,True,False,False
+United Kingdom,F. Construction,False,True,False,False
+United Kingdom,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
+United Kingdom,H. Transportation and storage,False,True,False,False
+United Kingdom,I. Accommodation and food service activities,False,False,True,False
+United Kingdom,J. Information and communication,True,True,False,False
+United Kingdom,K. Financial and insurance activities,True,False,False,False
+United Kingdom,L. Real estate activities,False,True,False,False
+United Kingdom,"M. Professional, scientific and technical activiti",True,True,False,False
+United Kingdom,N. Administrative and support service activities,False,True,True,False
+United Kingdom,O. Public administration and defence; compulsory s,False,True,False,False
+United Kingdom,P. Education,False,True,True,False
+United Kingdom,Q. Human health and social work activities,False,True,True,False
+United Kingdom,"R. Arts, entertainment and recreation",False,False,True,False
+United Kingdom,S. Other service activities,False,True,True,False
+United Kingdom,T. Activities of households as employers; undiffer,False,False,True,True
+United Kingdom,Total,False,True,False,False
+Greece,B. Mining and quarrying,False,False,True,False
+Greece,C. Manufacturing,False,False,True,True
+Greece,"D. Electricity; gas, steam and air conditioning su",False,True,True,False
+Greece,"E. Water supply; sewerage, waste management and re",False,False,True,False
+Greece,F. Construction,False,False,True,True
+Greece,G. Wholesale and retail trade; repair of motor veh,False,False,True,True
+Greece,H. Transportation and storage,False,False,True,False
+Greece,I. Accommodation and food service activities,False,False,True,True
+Greece,J. Information and communication,False,False,True,False
+Greece,K. Financial and insurance activities,False,False,True,False
+Greece,L. Real estate activities,False,False,True,True
+Greece,"M. Professional, scientific and technical activiti",False,False,True,False
+Greece,N. Administrative and support service activities,False,False,True,True
+Greece,O. Public administration and defence; compulsory s,False,False,True,False
+Greece,P. Education,False,False,True,False
+Greece,Q. Human health and social work activities,False,False,True,False
+Greece,"R. Arts, entertainment and recreation",False,False,True,True
+Greece,S. Other service activities,False,False,True,True
+Greece,Total,False,False,True,False
+Indonesia,Total,False,False,False,True
+Ireland,B. Mining and quarrying,True,True,False,False
+Ireland,C. Manufacturing,False,True,False,False
+Ireland,F. Construction,False,True,False,False
+Ireland,G. Wholesale and retail trade; repair of motor veh,False,True,True,False
+Ireland,H. Transportation and storage,False,True,False,False
+Ireland,I. Accommodation and food service activities,False,False,True,False
+Ireland,J. Information and communication,True,False,False,False
+Ireland,K. Financial and insurance activities,True,False,False,False
+Ireland,L. Real estate activities,False,True,False,False
+Ireland,"M. Professional, scientific and technical activiti",False,True,False,False
+Ireland,N. Administrative and support service activities,False,True,True,False
+Ireland,O. Public administration and defence; compulsory s,True,True,False,False
+Ireland,P. Education,False,True,False,False
+Ireland,Q. Human health and social work activities,False,True,False,False
+Ireland,"R. Arts, entertainment and recreation",False,False,True,False
+Ireland,S. Other service activities,False,False,True,False
+Ireland,Total,False,True,False,False
+Japan,B. Mining and quarrying,False,True,True,False
+Japan,F. Construction,False,True,True,False
+Japan,G. Wholesale and retail trade; repair of motor veh,False,True,True,False
+Japan,H. Transportation and storage,False,False,True,False
+Japan,I. Accommodation and food service activities,False,False,True,False
+Japan,J. Information and communication,False,True,False,False
+Japan,K. Financial and insurance activities,False,True,False,False
+Japan,L. Real estate activities,False,True,True,False
+Japan,"M. Professional, scientific and technical activiti",False,True,False,False
+Japan,P. Education,False,True,False,False
+Japan,Q. Human health and social work activities,False,False,True,False
+Japan,"R. Arts, entertainment and recreation",False,False,True,False
+Japan,S. Other service activities,False,False,True,False
+Japan,Total,False,True,True,False
+Norway,A. Agriculture; forestry and fishing,False,True,False,False
+Norway,B. Mining and quarrying,True,False,False,False
+Norway,C. Manufacturing,False,True,False,False
+Norway,"D. Electricity; gas, steam and air conditioning su",True,False,False,False
+Norway,"E. Water supply; sewerage, waste management and re",False,True,False,False
+Norway,F. Construction,False,True,False,False
+Norway,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
+Norway,H. Transportation and storage,False,True,False,False
+Norway,I. Accommodation and food service activities,False,True,True,False
+Norway,J. Information and communication,True,False,False,False
+Norway,K. Financial and insurance activities,True,False,False,False
+Norway,L. Real estate activities,True,True,False,False
+Norway,"M. Professional, scientific and technical activiti",True,False,False,False
+Norway,N. Administrative and support service activities,False,True,False,False
+Norway,O. Public administration and defence; compulsory s,True,True,False,False
+Norway,P. Education,False,True,False,False
+Norway,Q. Human health and social work activities,False,True,False,False
+Norway,"R. Arts, entertainment and recreation",False,True,False,False
+Norway,S. Other service activities,False,True,False,False
+Norway,Total,False,True,False,False
+Panama,F. Construction,False,False,False,True
+Panama,Total,False,False,True,True
+Philippines,A. Agriculture; forestry and fishing,False,False,False,True
+Philippines,B. Mining and quarrying,False,False,False,True
+Philippines,C. Manufacturing,False,False,False,True
+Philippines,"D. Electricity; gas, steam and air conditioning su",False,False,False,True
+Philippines,"E. Water supply; sewerage, waste management and re",False,False,False,True
+Philippines,F. Construction,False,False,False,True
+Philippines,G. Wholesale and retail trade; repair of motor veh,False,False,False,True
+Philippines,H. Transportation and storage,False,False,False,True
+Philippines,I. Accommodation and food service activities,False,False,False,True
+Philippines,J. Information and communication,False,False,False,True
+Philippines,K. Financial and insurance activities,False,False,False,True
+Philippines,L. Real estate activities,False,False,False,True
+Philippines,"M. Professional, scientific and technical activiti",False,False,False,True
+Philippines,N. Administrative and support service activities,False,False,False,True
+Philippines,P. Education,False,False,False,True
+Philippines,"R. Arts, entertainment and recreation",False,False,False,True
+Philippines,S. Other service activities,False,False,False,True
+Philippines,U. Activities of extraterritorial organizations an,False,False,True,True
+Philippines,Total,False,False,False,True
+Poland,A. Agriculture; forestry and fishing,False,False,True,False
+Poland,B. Mining and quarrying,False,True,False,False
+Poland,C. Manufacturing,False,False,True,False
+Poland,"D. Electricity; gas, steam and air conditioning su",False,True,False,False
+Poland,"E. Water supply; sewerage, waste management and re",False,False,True,False
+Poland,F. Construction,False,False,True,False
+Poland,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
+Poland,H. Transportation and storage,False,False,True,False
+Poland,I. Accommodation and food service activities,False,False,True,True
+Poland,J. Information and communication,False,True,False,False
+Poland,K. Financial and insurance activities,False,True,False,False
+Poland,L. Real estate activities,False,False,True,False
+Poland,"M. Professional, scientific and technical activiti",False,False,True,False
+Poland,N. Administrative and support service activities,False,False,True,True
+Poland,O. Public administration and defence; compulsory s,False,False,True,False
+Poland,P. Education,False,False,True,False
+Poland,Q. Human health and social work activities,False,False,True,False
+Poland,"R. Arts, entertainment and recreation",False,False,True,False
+Poland,S. Other service activities,False,False,True,True
+Poland,Total,False,False,True,False
+Singapore,Total,False,True,False,False
+Slovakia,A. Agriculture; forestry and fishing,False,False,True,True
+Slovakia,B. Mining and quarrying,False,False,True,False
+Slovakia,C. Manufacturing,False,False,True,False
+Slovakia,"D. Electricity; gas, steam and air conditioning su",False,True,True,False
+Slovakia,"E. Water supply; sewerage, waste management and re",False,False,True,False
+Slovakia,F. Construction,False,False,True,False
+Slovakia,G. Wholesale and retail trade; repair of motor veh,False,False,True,False
+Slovakia,H. Transportation and storage,False,False,True,False
+Slovakia,I. Accommodation and food service activities,False,False,True,True
+Slovakia,J. Information and communication,False,True,False,False
+Slovakia,K. Financial and insurance activities,False,True,False,False
+Slovakia,L. Real estate activities,False,False,True,False
+Slovakia,"M. Professional, scientific and technical activiti",False,False,True,False
+Slovakia,N. Administrative and support service activities,False,False,True,True
+Slovakia,O. Public administration and defence; compulsory s,False,False,True,False
+Slovakia,P. Education,False,False,True,False
+Slovakia,Q. Human health and social work activities,False,False,True,False
+Slovakia,"R. Arts, entertainment and recreation",False,False,True,True
+Slovakia,S. Other service activities,False,False,True,True
+Slovakia,Total,False,False,True,False
+Ukraine,F. Construction,False,False,False,True
+Ukraine,Total,False,False,False,True
+United States,A. Agriculture; forestry and fishing,False,True,True,False
+United States,B. Mining and quarrying,True,False,False,False
+United States,C. Manufacturing,True,True,False,False
+United States,"D. Electricity; gas, steam and air conditioning su",True,False,False,False
+United States,"E. Water supply; sewerage, waste management and re",True,True,False,False
+United States,F. Construction,True,True,False,False
+United States,G. Wholesale and retail trade; repair of motor veh,False,True,False,False
+United States,H. Transportation and storage,True,True,False,False
+United States,I. Accommodation and food service activities,False,False,True,False
+United States,J. Information and communication,True,False,False,False
+United States,K. Financial and insurance activities,True,False,False,False
+United States,L. Real estate activities,True,True,False,False
+United States,"M. Professional, scientific and technical activiti",True,False,False,False
+United States,N. Administrative and support service activities,False,True,False,False
+United States,O. Public administration and defence; compulsory s,True,False,False,False
+United States,P. Education,False,True,False,False
+United States,Q. Human health and social work activities,False,True,False,False
+United States,"R. Arts, entertainment and recreation",False,True,True,False
+United States,S. Other service activities,False,True,False,False
+United States,T. Activities of households as employers; undiffer,False,False,True,False
+United States,U. Activities of extraterritorial organizations an,True,False,False,False
+United States,Total,False,True,False,False

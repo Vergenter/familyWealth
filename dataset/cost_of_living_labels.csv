@@ -1,68 +1,68 @@
 Country,group 1,group 2,group 3,group 4
-Argentina,True,False,False,False
-Australia,False,False,True,False
-Austria,False,False,True,False
-Belgium,False,False,True,False
-Bosnia And Herzegovina,False,True,False,False
-Brazil,True,True,False,False
-Bulgaria,False,True,False,False
-Canada,False,False,True,False
-Chile,True,False,False,False
-China,True,True,False,False
-Colombia,False,True,False,False
-Croatia,True,False,False,False
-Czech Republic,True,True,False,False
-Denmark,False,False,True,False
-Ecuador,False,True,False,False
-Egypt,False,True,False,False
-Estonia,True,False,False,False
-Finland,False,False,True,False
-France,False,False,True,False
-Germany,False,False,True,False
-Greece,True,False,True,False
-Hong Kong,False,False,True,False
-Hungary,True,True,False,False
-India,False,True,False,False
-Indonesia,False,True,False,False
-Iran,False,True,False,False
-Ireland,False,False,True,False
-Israel,False,False,True,False
-Italy,False,False,True,False
-Japan,False,False,True,False
-Jordan,True,False,False,False
-Kazakhstan,True,True,False,False
-Lithuania,True,False,False,False
-Malaysia,False,True,False,False
-Malta,True,False,True,False
-Mexico,False,True,False,False
-Morocco,False,True,False,False
-Netherlands,False,False,True,False
-New Zealand,False,False,True,False
-Norway,False,False,False,True
-Pakistan,False,True,False,False
-Panama,True,False,False,False
-Philippines,False,True,False,False
-Poland,False,True,False,False
-Portugal,True,False,False,False
-Puerto Rico,True,False,True,False
-Qatar,True,False,True,False
-Romania,False,True,False,False
-Russia,True,True,False,False
-Saudi Arabia,True,True,False,False
-Serbia,False,True,False,False
-Singapore,False,False,True,False
-Slovakia,True,False,False,False
-Slovenia,True,False,False,False
-South Africa,True,True,False,False
-South Korea,False,False,True,False
-Spain,True,False,False,False
-Sweden,False,False,True,False
-Switzerland,False,False,False,True
-Taiwan,True,False,False,False
-Thailand,True,True,False,False
-Turkey,True,True,False,False
-Ukraine,False,True,False,False
-United Arab Emirates,True,False,True,False
-United Kingdom,False,False,True,False
-United States,False,False,True,False
-Vietnam,False,True,False,False
+Argentina,False,False,True,False
+Australia,False,True,False,False
+Austria,False,True,False,False
+Belgium,False,True,False,False
+Bosnia And Herzegovina,False,False,False,True
+Brazil,False,False,True,True
+Bulgaria,False,False,False,True
+Canada,False,True,False,False
+Chile,False,False,True,False
+China,False,False,True,True
+Colombia,False,False,False,True
+Croatia,False,False,True,False
+Czech Republic,False,False,True,True
+Denmark,False,True,False,False
+Ecuador,False,False,False,True
+Egypt,False,False,False,True
+Estonia,False,False,True,False
+Finland,False,True,False,False
+France,False,True,False,False
+Germany,False,True,False,False
+Greece,False,True,True,False
+Hong Kong,False,True,False,False
+Hungary,False,False,True,True
+India,False,False,False,True
+Indonesia,False,False,False,True
+Iran,False,False,False,True
+Ireland,False,True,False,False
+Israel,False,True,False,False
+Italy,False,True,False,False
+Japan,False,True,False,False
+Jordan,False,False,True,False
+Kazakhstan,False,False,True,True
+Lithuania,False,False,True,False
+Malaysia,False,False,False,True
+Malta,False,True,True,False
+Mexico,False,False,False,True
+Morocco,False,False,False,True
+Netherlands,False,True,False,False
+New Zealand,False,True,False,False
+Norway,True,False,False,False
+Pakistan,False,False,False,True
+Panama,False,False,True,False
+Philippines,False,False,False,True
+Poland,False,False,False,True
+Portugal,False,False,True,False
+Puerto Rico,False,True,True,False
+Qatar,False,True,True,False
+Romania,False,False,False,True
+Russia,False,False,True,True
+Saudi Arabia,False,False,True,True
+Serbia,False,False,False,True
+Singapore,False,True,False,False
+Slovakia,False,False,True,False
+Slovenia,False,False,True,False
+South Africa,False,False,True,True
+South Korea,False,True,False,False
+Spain,False,False,True,False
+Sweden,False,True,False,False
+Switzerland,True,False,False,False
+Taiwan,False,False,True,False
+Thailand,False,False,True,True
+Turkey,False,False,True,True
+Ukraine,False,False,False,True
+United Arab Emirates,False,True,True,False
+United Kingdom,False,True,False,False
+United States,False,True,False,False
+Vietnam,False,False,False,True
